@@ -1,0 +1,110 @@
+html {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+body {
+    margin: 0;
+    background: #f5f5f5;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background: #eeeeee;
+}
+
+a {
+    color: #006ab3;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    color: #004f83;
+    text-decoration: underline;
+}
+
+.nav-link {
+    color: #444444;
+    padding: 0 1rem;
+    text-decoration: none;
+}
+.nav-link:hover {
+    text-decoration: underline;
+}
+.nav-link:active {
+    text-decoration: underline;
+}
+.nav-link-active {
+    color: black;
+}
+
+.button {
+    display: inline-block;
+    border: none;
+    border-radius: 5px;
+    padding: 0.6rem 1rem;
+    color: white;
+    background-color: #008ae3;
+}
+.button:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #24a3ff;
+}
+.button:active {
+    color: white;
+    text-decoration: none;
+    background-color: #004f83;
+}
+
+.header {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
+    display: flex;
+    position: relative;
+    flex-flow: row;
+    justify-content: space-between;
+    align-content: center;
+    padding: 1rem;
+    background: white;
+    z-index: 9999;
+}
+.header-left {
+    align-self: center;
+}
+.header-left-link {
+    color: black;
+    text-decoration: none !important;
+}
+.header-logo {
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.15);
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+.header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-left: 1rem;
+    vertical-align: middle;
+}
+
+.content {
+    max-width: 1280px;
+    margin: auto;
+    padding: 3rem 1rem;
+    background: white;
+}
+
+.social-card {
+    display: inline-block;
+    max-width: 50px;
+    max-height: 50px;
+    vertical-align: middle;
+}
+.hidden {
+  display: none;
+}
