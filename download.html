@@ -28,35 +28,54 @@
 			<h1>Download</h1>
 
 			<div style="margin-top: 2rem;">
-				<a class="button" href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.0.6a/3DRadSpace.v006a.rar">Download Latest (v0.0.6a)</a>
+				<a class="button" href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.1.0Alpha/3DRadSpace.v010Alpha.Setup.exe">Download Latest (v0.1.0 Alpha)</a>
 			</div>
+			<p>
+				<a href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.1.0Alpha/3DRadSpace.0.1.0Alpha.Editor.zip">Download the editor archive</a>
+				&nbsp;|&nbsp;
+				<a href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.1.0Alpha/3DRadSpace_VSExtension.vsix">Download the Visual Studio extension</a>
+			</p>
 			<br>
 			<h1>Changelog</h1>
 			
 			<div style="border-radius: 5px;background: #eeeeee;padding: 1rem 1rem 1rem 4rem;font-size: 0.8rem">
-				&emsp;<h2>Features:</h2>
+				&emsp;<h2>3DRadSpace 0.1.0 Alpha</h2>
+				<p>Compared with 0.0.6 Alpha, this release is a complete C++ rewrite with a more stable and usable editor. The backend uses DirectX 11 and the engine is compiled for x64_86.</p>
+				&emsp;<h2>Features and improvements:</h2>
 				<br>
-				&emsp;&emsp;✓ Added the Counter object, with also a demo project.
+				&emsp;&emsp;✓ Revamped the editor, including code-generated object editing interfaces.
 				<br>
-				&emsp;&emsp;✓ Reworked the editor camera, to avoid the generic first person shooter style. It is similar to the original 3D Rad.
+				&emsp;&emsp;✓ Added NVidia PhysX 5.5.0 physics objects: GForce, Force, RigidStatic, RigidDynamic, FPCharacter, and Joint.
 				<br>
-				&emsp;&emsp;✓ 3D rendarable Objects are now selectable with the mouse.
+				&emsp;&emsp;✓ Added primitive geometric objects: Box, Sphere, Cone, and Cylinder.
 				<br>
-			&emsp;<h2>Bug fixes:</h2>
+				&emsp;&emsp;✓ Added shadow mapping with 3x3 PCF.
 				<br>
-				&emsp;&emsp;✓ Fixed a crash when opening a project containing a EventOnKey with no defined actions
+				&emsp;&emsp;✓ Added basic custom plugin and object support, including C#, AngelScript, and Hello World plugins.
 				<br>
-				&emsp;&emsp;✓ Fixed a crash when opening a project containing a EventOnLocation with no defined opcodes/actions
-			   <br>
-				&emsp;&emsp;✓ Fixed a bug dealing with wrong values in the EventOnKey dialog and saving.
-
-			&emsp;<h2>Minor:</h2>
+				&emsp;&emsp;✓ Added DDS skybox support and the SpriteBillboard object.
 				<br>
-				&emsp;&emsp;✓ The text at the bottom of the screen also shows the camera's position.
+				&emsp;&emsp;✓ Replaced FPVCamera with FreeCam, including six degrees of freedom and an optional arc camera.
 				<br>
-				&emsp;&emsp;✓ Added Edit -&gt; Reset 3D Cursor Location
+				&emsp;&emsp;✓ Added asset management, a working autoupdater, and JSON-based settings and project files.
 				<br>
+				&emsp;&emsp;✓ Events now use reflection metadata instead of hardcoded definitions.
 				<br>
+				&emsp;&emsp;✓ Replaced 3DRadSpace.Player with a command-line project compiler that generates Visual Studio C++ projects.
+				<br>
+				&emsp;&emsp;✓ Added a Visual Studio extension with C++ project and file templates.
+				<br>
+				&emsp;<h2>Removed:</h2>
+				<br>
+				&emsp;&emsp;✓ Removed XNBConverter, unused 0.0.6 Alpha objects, and 3DRadSpace.Player.
+				<br>
+				&emsp;<h2>Known issues:</h2>
+				<br>
+				&emsp;&emsp;• Memory leak in the EoK demo project.
+				<br>
+				&emsp;&emsp;• Perspective aliasing on surfaces parallel enough with the light direction.
+				<br>
+				&emsp;&emsp;• C# scripting is highly unstable; AngelScript and C++ are better supported.
 			</div>
 
 			<hr style="margin: 2rem 0;">
@@ -66,6 +85,8 @@
 			</div>
 			<div style="padding-left:4em">
 				Here are the older 3DRadSpace versions, kept for archival purposes. <br> <br>
+				<a href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.0.6a/3DRadSpace.v006a.rar">v0.0.6a</a>
+				<br>
 				<a href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.0.5a/3DRadSpace.v005a.rar">v0.0.5a</a>
 				<br>
 				<a href="https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.0.4a/3DRadSpace.v004a.rar">v0.0.4a</a>
