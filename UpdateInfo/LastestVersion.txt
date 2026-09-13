@@ -1,2 +1,2 @@
 2026 8 31
-https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.0.6a_rf1/3DRadSpace.v006a.hot.fix.1.zip
+https://github.com/3DRadSpace/3D_Rad_Space/releases/download/0.1.0Alpha/3DRadSpace.v010Alpha.Setup.exe
