@@ -1,0 +1,20 @@
+<map id="AssetControl" name="AssetControl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,371,326,397"/>
+<area shape="rect" id="Node000002" href="$class_i_control.html" title=" " alt="" coords="222,264,290,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,304,277,371,272,369,260,308"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_content_1_1_content_manager.html" title="Manages the lifetimes of all loaded assets." alt="" coords="314,256,507,299"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="375,308,295,372,292,368,370,309"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="204,180,417,207"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="338,214,388,256,383,256,337,219"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="105,104,334,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="247,138,298,179,293,180,247,143"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="85,37,200,102,195,105,86,43"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="226,45,223,105,218,103,224,50"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="359,104,550,131"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="449,144,418,257,414,254,445,147"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="414,139,336,182,334,177,419,137"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="363,5,546,32"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="456,45,457,105,452,103,453,50"/>
+</map>

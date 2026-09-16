@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Graphics::Null::TextureCube" name="Engine3DRadSpace.Graphics::Null::TextureCube">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,352,209,395"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_texture_cube.html" title="Represents an cubemap made of 6 2D textures." alt="" coords="12,261,211,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,318,114,353,109,351,110,322"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_multi_buffer.html" title="Represents a base interface for GPU resources that have subresources." alt="" coords="12,171,211,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,226,106,262,101,260,102,231"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="121,226,122,262,117,260,119,231"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="12,80,211,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,136,106,171,101,170,102,141"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="121,136,122,171,117,170,120,141"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,5,218,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,45,114,80,109,79,111,50"/>
+</map>

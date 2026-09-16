@@ -1,0 +1,23 @@
+<map id="Engine3DRadSpace.Physics::Objects::GForce" name="Engine3DRadSpace.Physics::Objects::GForce">
+<area shape="rect" id="Node000001" title="A GForce object is a object that enables physics simulation and specifies the gravity." alt="" coords="613,157,803,200"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="323,112,515,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,148,615,164,610,164,531,153"/>
+<area shape="poly" id="edge11_Node000002_Node000002" title=" " alt="" coords="393,94,403,88,419,85,434,87,444,93,448,102,447,113,443,110,443,103,440,97,432,92,419,91,405,93,396,99"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,5,218,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,35,224,55,300,80,363,111,358,112,298,85,223,60,156,40"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="233,34,300,56,353,82,399,111,394,112,351,86,298,61,233,39"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,63,219,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="162,91,299,116,325,123,320,124,298,121,163,96"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="233,80,299,92,374,111,369,112,298,97,234,86"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,115,212,141"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,136,325,139,320,141,228,141"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="227,119,325,122,320,124,228,124"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,165,218,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="221,160,325,146,320,149,223,165"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_objects_1_1_child_object_collection.html" title="Represents a collection of child objects owned by a parent object. Unlike ObjectList,..." alt="" coords="18,216,206,259"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="221,215,260,202,297,186,309,176,321,164,343,156,348,154,324,169,313,180,300,190,262,207,222,220"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="21,283,203,309"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="191,276,218,268,262,259,279,253,297,238,306,221,308,203,310,184,321,165,335,157,339,154,325,168,315,186,313,203,312,222,301,242,282,257,263,264,219,273,192,281"/>
+<area shape="rect" id="Node000009" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="333,179,505,221"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="521,190,589,185,616,186,610,187,589,191,521,196"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="Engine3DRadSpace.Objects::Timer" name="Engine3DRadSpace.Objects::Timer">
+<area shape="rect" id="Node000001" title="Represents an event object that executes an event at a specified interval, for a specified number of ..." alt="" coords="615,224,803,267"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="328,112,520,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,158,655,223,650,224,494,163"/>
+<area shape="poly" id="edge11_Node000002_Node000002" title=" " alt="" coords="398,94,408,88,424,85,439,87,449,93,454,102,452,113,448,110,448,103,445,97,437,92,424,91,410,93,401,99"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,5,218,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,35,224,55,300,80,365,111,360,112,298,85,222,60,155,40"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="232,34,300,56,355,82,403,111,398,112,353,87,298,61,233,39"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,63,219,89"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="161,91,299,116,330,124,325,125,298,121,162,96"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="233,81,299,92,376,110,371,112,298,97,234,86"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,115,212,141"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,136,330,139,325,141,228,141"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="226,119,330,122,325,125,228,124"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,165,218,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="223,160,330,146,325,149,224,165"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_objects_1_1_child_object_collection.html" title="Represents a collection of child objects owned by a parent object. Unlike ObjectList,..." alt="" coords="18,216,206,259"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="220,209,298,185,380,154,375,157,300,191,222,214"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="21,283,203,309"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="193,276,218,268,259,253,297,232,353,192,397,157,402,154,356,196,300,237,261,258,220,273,195,281"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_reflection_1_1_event.html" title="Like MultiEvent, an Event can be bound to multiple function, but this class is also serializable in t..." alt="" coords="323,256,525,299"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="540,263,591,257,617,257,612,258,591,263,541,268"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_reflection_1_1_i_event.html" title="Base interface for an Event." alt="" coords="11,333,213,376"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="228,338,298,323,371,300,376,299,299,328,229,343"/>
+</map>

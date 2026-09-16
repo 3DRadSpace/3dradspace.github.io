@@ -1,0 +1,25 @@
+<map id="Engine3DRadSpace.Content.IAsset" name="Engine3DRadSpace.Content.IAsset">
+<area shape="rect" id="Node000001" title="Asset polymorphic base type." alt="" coords="5,291,199,333"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_i_asset_wrapper.html" title=" " alt="" coords="261,5,450,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,275,134,230,162,176,199,122,245,74,265,62,261,67,248,78,203,125,167,179,138,232,119,277"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_i_asset_wrapper.html" title=" " alt="" coords="261,88,450,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,277,177,216,209,184,245,156,268,145,264,149,248,161,213,188,181,220,130,280"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_i_asset_wrapper.html" title=" " alt="" coords="261,171,450,245"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="168,282,264,244,261,248,171,287"/>
+<area shape="rect" id="Node000008" href="$class_engine3_d_rad_space_1_1_audio_1_1_sound.html" title="Represents a audio clip." alt="" coords="247,269,464,296"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="213,297,248,294,244,297,215,301"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_i_asset_wrapper.html" title="Internal Asset wrapper for an asset type." alt="" coords="258,320,453,363"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="213,322,260,329,255,331,215,328"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_null_asset.html" title="Represent a null asset." alt="" coords="261,387,450,429"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="164,338,248,372,282,386,277,387,246,377,164,343"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_texture_asset.html" title="Asset type for ITexture2D objects. This asset type is used to load textures from disk and manage thei..." alt="" coords="261,453,450,496"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="133,343,185,393,215,417,248,439,273,453,268,453,245,444,212,422,181,397,132,348"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="259,520,452,563"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="121,345,144,384,172,427,207,469,248,506,269,520,264,519,245,510,203,473,168,430,139,387,120,350"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_font_asset.html" title=" " alt="" coords="512,13,701,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,32,514,34,509,36,466,37"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_model_asset.html" title="Represents an 3D model asset." alt="" coords="512,96,701,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="465,115,514,116,509,118,466,120"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_content_1_1_assets_1_1_skybox_asset.html" title="Represents an skybox asset, which is a wrapper around a CubeMapSkybox primitive." alt="" coords="512,187,701,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="465,205,514,207,509,209,466,211"/>
+</map>

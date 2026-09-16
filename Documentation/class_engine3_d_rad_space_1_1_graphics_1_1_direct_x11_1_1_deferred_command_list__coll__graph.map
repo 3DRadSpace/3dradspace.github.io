@@ -1,0 +1,31 @@
+<map id="Engine3DRadSpace.Graphics::DirectX11::DeferredCommandList" name="Engine3DRadSpace.Graphics::DirectX11::DeferredCommandList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1714,131,1939,173"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_graphics_command_list.html" title=" " alt="" coords="1437,131,1664,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1680,149,1716,152,1710,152,1680,155"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_command_list.html" title="Represents a graphics command list interface for issuing rendering commands to the GPU." alt="" coords="564,5,764,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="779,36,1068,69,1241,93,1413,120,1455,130,1449,130,1413,125,1240,98,1067,75,780,41"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,141,218,168"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,130,199,98,266,69,343,50,421,37,566,27,561,29,422,42,344,55,268,75,202,103,147,135"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="267,84,466,127"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="198,135,269,123,264,126,200,140"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="813,232,1012,275"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="135,177,192,231,228,257,268,276,342,297,419,308,497,313,573,311,647,305,716,295,827,276,832,275,716,300,648,310,574,316,497,318,418,314,341,302,266,281,225,262,188,235,133,182"/>
+<area shape="rect" id="Node000011" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_depth_stencil_buffer.html" title=" " alt="" coords="813,131,1012,173"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="233,152,813,150,812,155,233,157"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="464,77,583,48,578,50,466,82"/>
+<area shape="poly" id="edge17_Node000011_Node000005" title=" " alt="" coords="482,116,565,124,815,145,810,146,564,129,482,121"/>
+<area shape="rect" id="Node000012" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_buffer.html" title="Represents an polymorphic interface for classes that own GPU buffer handles." alt="" coords="564,72,764,115"/>
+<area shape="poly" id="edge15_Node000012_Node000005" title=" " alt="" coords="482,107,567,105,561,107,483,112"/>
+<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="482,89,567,88,561,90,483,95"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_graphics_device.html" title="DirectX11 RHI (Rendering Hardware Interface)." alt="" coords="1066,205,1261,248"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="1276,204,1412,179,1446,174,1452,174,1414,184,1277,210"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1028,238,1063,237,1068,237,1028,244"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="568,240,760,267"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="775,251,815,253,810,253,775,256"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="276,240,458,267"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="474,251,570,253,565,254,474,256"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_depth_stencil_buffer.html" title="Represents the depth stencil buffer." alt="" coords="1062,131,1265,173"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="1280,149,1439,152,1434,152,1280,155"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1028,149,1064,152,1059,152,1028,155"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="772,116,822,130,816,130,772,121"/>
+</map>

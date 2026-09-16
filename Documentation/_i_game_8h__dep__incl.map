@@ -1,0 +1,21 @@
+<map id="E:/3DRadSpace/Engine3DRadSpace/FFI/Core/IGame.h" name="E:/3DRadSpace/Engine3DRadSpace/FFI/Core/IGame.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="305,5,506,48"/>
+<area shape="rect" id="Node000002" href="$_f_f_i_2_core_2_i_game_8cpp.html" title=" " alt="" coords="61,96,262,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,55,220,98,218,93,336,52"/>
+<area shape="rect" id="Node000003" href="$_effect_manager_8h.html" title=" " alt="" coords="287,96,524,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="407,61,408,97,403,94,404,66"/>
+<area shape="rect" id="Node000007" href="$_object_list_8h.html" title=" " alt="" coords="562,96,767,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="481,51,606,95,601,96,481,56"/>
+<area shape="rect" id="Node000004" href="$_f_f_i_2_graphics_2_effect_manager_8cpp.html" title=" " alt="" coords="5,187,257,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="325,146,196,188,194,184,329,142"/>
+<area shape="rect" id="Node000005" href="$_i_shader_compiler_8h.html" title=" " alt="" coords="280,187,531,229"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="407,152,408,188,403,185,404,156"/>
+<area shape="rect" id="Node000006" href="$_f_f_i_2_graphics_2_i_shader_compiler_8cpp.html" title=" " alt="" coords="274,277,538,320"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="408,243,408,279,404,275,404,247"/>
+<area shape="rect" id="Node000008" href="$_f_f_i_2_objects_2_object_list_8cpp.html" title=" " alt="" coords="555,187,774,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="666,152,666,188,662,185,663,156"/>
+<area shape="rect" id="Node000009" href="$_serialization_8h.html" title=" " alt="" coords="798,187,1018,229"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="736,142,854,186,848,186,735,147"/>
+<area shape="rect" id="Node000010" href="$_f_f_i_2_projects_2_serialization_8cpp.html" title=" " alt="" coords="791,277,1026,320"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="910,243,910,279,906,275,906,247"/>
+</map>

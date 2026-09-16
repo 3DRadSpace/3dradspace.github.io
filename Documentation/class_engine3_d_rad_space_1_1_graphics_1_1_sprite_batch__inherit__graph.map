@@ -1,0 +1,11 @@
+<map id="Engine3DRadSpace.Graphics.SpriteBatch" name="Engine3DRadSpace.Graphics.SpriteBatch">
+<area shape="rect" id="Node000001" title="A SpriteBatch renders 2D sprites with a specified order." alt="" coords="156,155,356,197"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="24,80,253,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,113,228,154,223,154,168,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,39,126,79,121,81,77,45"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="202,40,155,82,152,78,197,44"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="278,80,469,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="345,115,287,157,285,152,340,116"/>
+</map>

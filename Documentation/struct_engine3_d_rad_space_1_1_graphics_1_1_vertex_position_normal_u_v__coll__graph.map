@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Graphics::VertexPositionNormalUV" name="Engine3DRadSpace.Graphics::VertexPositionNormalUV">
+<area shape="rect" id="Node000001" title="Represents a 3D vertex declaration with a 3D normal attribute, and a 2D texture coordinate attribute." alt="" coords="91,141,286,184"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,58,177,140,171,141,114,63"/>
+<area shape="rect" id="Node000003" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector2.html" title="A 2D vector." alt="" coords="201,5,374,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,60,206,143,202,139,261,61"/>
+</map>

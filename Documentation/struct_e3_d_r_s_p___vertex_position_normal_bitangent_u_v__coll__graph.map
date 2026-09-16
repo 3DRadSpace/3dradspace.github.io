@@ -1,0 +1,7 @@
+<map id="E3DRSP_VertexPositionNormalBitangentUV" name="E3DRSP_VertexPositionNormalBitangentUV">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,168,247,211"/>
+<area shape="rect" id="Node000002" href="$struct_e3_d_r_s_p___vector3.html" title=" " alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,45,137,167,131,168,78,49"/>
+<area shape="rect" id="Node000003" href="$struct_e3_d_r_s_p___vector2.html" title=" " alt="" coords="156,5,282,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,46,212,95,204,121,192,145,172,170,169,165,188,143,199,119,206,94,215,50"/>
+</map>

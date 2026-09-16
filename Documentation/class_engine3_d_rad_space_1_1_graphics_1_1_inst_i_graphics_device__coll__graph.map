@@ -1,0 +1,19 @@
+<map id="Engine3DRadSpace.Graphics.InstIGraphicsDevice" name="Engine3DRadSpace.Graphics.InstIGraphicsDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="857,51,1056,93"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="594,28,808,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="823,53,859,60,854,60,823,59"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="316,5,545,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,27,597,32,591,33,561,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,16,317,17,313,20,173,21"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,77,218,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,71,315,41,369,32,364,33,316,47,189,76"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="601,79,801,121"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="233,91,316,92,603,97,599,100,316,97,234,96"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="335,56,526,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="541,55,597,52,591,53,542,60"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="541,79,604,89,598,89,541,85"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="20,151,203,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="173,143,381,81,384,86,175,148"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="816,85,859,83,854,83,817,90"/>
+</map>

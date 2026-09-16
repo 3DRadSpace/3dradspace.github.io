@@ -1,0 +1,26 @@
+var structtag_i_n_s_t_a_n_c_e_d_a_t_a =
+[
+    [ "fGotFocus", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a8302f5cf60a238995d0a4aebf320e617", null ],
+    [ "fScrolling", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a23e647cdd2f65c2cf714ac33de11a69e", null ],
+    [ "fTracking", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a125cb8d71d5b7b538ee4957054f577be", null ],
+    [ "fXpOrLower", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a01bb2dcadf5b29a9db92420cc22100c7", null ],
+    [ "hInstance", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a6ced420c5966f60662bbaa0db98897f5", null ],
+    [ "hwndCtl1", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a7f4b87cfda1765ccef1292854a2eb97a", null ],
+    [ "hwndCtl2", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a1b41e00c11c82b8a76cc015bdc1a4290", null ],
+    [ "hwndListBox", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a1cb92a98b9e645b84e997c18edc01fe9", null ],
+    [ "hwndListMap", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a4c43ff40a404e59895c4468c47ca436f", null ],
+    [ "hwndParent", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a714788c0e9959eebf81f5bf375328da4", null ],
+    [ "hwndPropDesc", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#ae392f7af8828cfaa84f44998a7d2c022", null ],
+    [ "hwndToolTip", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#acc574ceb4346a7f45d56782c4b299585", null ],
+    [ "iDescHeight", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a460f7fc8563792fa7ddf06f50ca032c7", null ],
+    [ "iHDivider", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a3bcc249d790405f8f2a3589e4cb30fb2", null ],
+    [ "iPrevSel", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#aef8c0311a5c9205166657b2fe4ef0d2d", null ],
+    [ "iVDivider", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#aecbad135b74ed083bf915406e67f17ba", null ],
+    [ "lpCurrent", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#ae688acb7fbe5f858d7f2c7fb24ee3765", null ],
+    [ "nDivBtm", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a65e32bc91d57a13951e26c8e15400981", null ],
+    [ "nDivLft", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#acae56c741eb99b137d55fbfee0fcca28", null ],
+    [ "nDivRht", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#a12dd809a387efecff63cd113e9b3bcb4", null ],
+    [ "nDivTop", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#af9b6c78ebefac0ab2ed7cea4e3937924", null ],
+    [ "nOldDivX", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#ac753f3d88d54595d1414312c3795a05a", null ],
+    [ "nOldDivY", "structtag_i_n_s_t_a_n_c_e_d_a_t_a.html#ab9621fa10fc47729ac5d497d19086420", null ]
+];

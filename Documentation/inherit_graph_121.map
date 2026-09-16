@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_engine3_d_rad_space_1_1_reflection_1_1_i_reflected_field.html" title="Metadata interface for a reflected field." alt="" coords="5,272,212,315"/>
+<area shape="rect" id="Node000001" href="$class_engine3_d_rad_space_1_1_graphics_1_1_shader_variable.html" title="Represents the reflection data of a shader variable, which is a field in a constant buffer." alt="" coords="282,5,477,48"/>
+<area shape="poly" id="edge328_Node000000_Node000001" title=" " alt="" coords="121,257,141,211,171,157,210,104,258,58,283,45,280,49,261,62,214,107,175,160,146,214,126,259"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_reflection_1_1_attribute.html" title="Represents an attribute of a reflected object." alt="" coords="278,72,480,115"/>
+<area shape="poly" id="edge329_Node000000_Node000002" title=" " alt="" coords="130,257,183,190,218,154,258,124,284,113,280,117,261,129,222,158,187,193,134,260"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_reflection_1_1_i_reflected_enum_field.html" title="Reflected enumeration field interface." alt="" coords="278,139,480,181"/>
+<area shape="poly" id="edge330_Node000000_Node000003" title=" " alt="" coords="147,260,199,224,259,191,290,180,286,184,261,196,202,229,151,264"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_reflection_1_1_i_reflected_function.html" title="Polymorphic interface for reflected functions." alt="" coords="278,205,480,248"/>
+<area shape="poly" id="edge332_Node000000_Node000005" title=" " alt="" coords="211,265,292,247,288,250,214,270"/>
+<area shape="rect" id="Node000008" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_field_3_01_t_01_4.html" title="Concrete reflected field type." alt="" coords="278,272,480,315"/>
+<area shape="poly" id="edge335_Node000000_Node000008" title=" " alt="" coords="226,291,280,292,276,295,228,296"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_field_3_01std_1_1optional_3_01_t_01_4_01_4.html" title="Concrete reflected field type for optional types." alt="" coords="260,339,499,381"/>
+<area shape="poly" id="edge336_Node000000_Node000009" title=" " alt="" coords="212,316,292,337,287,339,213,322"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_field_3_01void_01_4.html" title="Null specialization. Sentinel value." alt="" coords="278,405,480,448"/>
+<area shape="poly" id="edge337_Node000000_Node000010" title=" " alt="" coords="149,322,202,358,261,391,291,404,286,405,259,396,199,362,149,327"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_field_g_s.html" title="Concrete reflected field type with fields that require get/set functions." alt="" coords="278,472,480,515"/>
+<area shape="poly" id="edge338_Node000000_Node000011" title=" " alt="" coords="132,325,187,393,222,428,261,458,285,471,280,472,258,462,218,432,183,397,131,330"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_reflection_1_1_unknown_variable.html" title="Represents a variable of unknown type." alt="" coords="278,539,480,581"/>
+<area shape="poly" id="edge339_Node000000_Node000012" title=" " alt="" coords="124,326,146,373,175,426,214,479,261,525,281,538,276,538,258,529,210,483,171,429,141,376,123,332"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_enum_field.html" title=" " alt="" coords="548,139,750,181"/>
+<area shape="poly" id="edge331_Node000003_Node000004" title=" " alt="" coords="496,157,549,159,545,161,497,163"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_function.html" title="&quot;Reflects&quot; a non&#45;member function." alt="" coords="547,205,750,248"/>
+<area shape="poly" id="edge333_Node000005_Node000006" title=" " alt="" coords="496,224,549,226,544,228,497,229"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_member_function.html" title="Reflects a member function." alt="" coords="548,272,750,331"/>
+<area shape="poly" id="edge334_Node000005_Node000007" title=" " alt="" coords="473,250,550,273,544,274,474,255"/>
+</map>

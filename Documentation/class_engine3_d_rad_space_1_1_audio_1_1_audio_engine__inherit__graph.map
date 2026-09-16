@@ -1,0 +1,9 @@
+<map id="Engine3DRadSpace.Audio.AudioEngine" name="Engine3DRadSpace.Audio.AudioEngine">
+<area shape="rect" id="Node000001" title="OpenAL based audio engine." alt="" coords="22,171,236,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,96,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,124,114,170,108,171,71,129"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_audio_1_1_i_audio_engine.html" title="Instances and handles audio device handles." alt="" coords="120,80,296,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,133,149,172,146,168,177,136"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="112,5,304,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,45,210,81,205,79,206,50"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Physics::Objects::Joint::JointProperties" name="Engine3DRadSpace.Physics::Objects::Joint::JointProperties">
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,205,292,248"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,61,95,121,103,152,117,180,143,205,138,205,113,183,99,154,90,122,88,66"/>
+<area shape="rect" id="Node000003" href="$struct_engine3_d_rad_space_1_1_math_1_1_quaternion.html" title="A quaternion is a hyper&#45;complex number that represents 3D rotations the same way 2D rotations can be ..." alt="" coords="201,5,374,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,62,285,122,275,154,260,183,235,207,232,202,256,180,270,152,279,121,287,66"/>
+</map>

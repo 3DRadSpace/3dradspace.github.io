@@ -1,0 +1,9 @@
+<map id="Engine3DRadSpace.Reflection::IReflectedFunction" name="Engine3DRadSpace.Reflection::IReflectedFunction">
+<area shape="rect" id="Node000001" title="Polymorphic interface for reflected functions." alt="" coords="260,43,462,85"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_function.html" title="&quot;Reflects&quot; a non&#45;member function." alt="" coords="510,5,713,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,44,512,41,507,42,478,49"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_reflection_1_1_reflected_member_function.html" title="Reflects a member function." alt="" coords="510,72,713,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,79,513,86,507,86,477,84"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_reflection_1_1_i_reflected_field.html" title="Metadata interface for a reflected field." alt="" coords="5,43,212,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,61,262,64,256,64,227,67"/>
+</map>

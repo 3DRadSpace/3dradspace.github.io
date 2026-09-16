@@ -1,0 +1,24 @@
+<map id="Engine3DRadSpace.Graphics::DirectX11::VertexShader" name="Engine3DRadSpace.Graphics::DirectX11::VertexShader">
+<area shape="rect" id="Node000001" title="Represents a vertex shader." alt="" coords="1539,41,1734,84"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_shader_base.html" title=" " alt="" coords="1294,73,1490,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1505,77,1536,76,1541,75,1505,83"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="994,73,1193,116"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1209,92,1297,95,1291,95,1209,97"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="286,69,498,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,82,995,91,991,95,514,87"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="547,109,747,152"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="482,97,549,112,544,112,482,102"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="547,176,747,219"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="430,101,486,132,548,162,579,176,574,175,546,166,483,136,429,107"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_vertex_shader.html" title="Represents an interface for a vertex shader. A IVertexShader is guaranteed to be a IShader." alt="" coords="771,5,970,48"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="460,63,522,51,651,36,773,30,768,31,651,41,522,56,461,68"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="762,119,996,102,991,103,762,124"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_graphics_device.html" title="DirectX11 RHI (Rendering Hardware Interface)." alt="" coords="996,151,1191,193"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="1193,144,1304,117,1310,116,1194,149"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="762,188,993,178,998,177,762,194"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="296,184,488,211"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="503,195,550,197,544,197,503,200"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="5,184,188,211"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="203,195,298,197,293,198,203,200"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="985,29,1541,58,1536,59,985,35"/>
+</map>

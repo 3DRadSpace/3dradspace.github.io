@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Graphics.ShaderDesc" name="Engine3DRadSpace.Graphics.ShaderDesc">
+<area shape="rect" id="Node000001" title="Shader description base polymorphic type." alt="" coords="543,39,742,81"/>
+<area shape="rect" id="Node000005" href="$struct_engine3_d_rad_space_1_1_graphics_1_1_shader_desc_file.html" title=" " alt="" coords="790,5,986,48"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="758,42,787,40,793,40,758,47"/>
+<area shape="rect" id="Node000006" href="$struct_engine3_d_rad_space_1_1_graphics_1_1_shader_desc_source.html" title=" " alt="" coords="790,72,986,115"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="758,73,793,80,787,80,758,78"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,47,495,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,57,545,60,540,60,511,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="66,21,157,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,38,268,48,263,50,172,43"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,72,218,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="233,71,268,70,263,71,233,77"/>
+</map>

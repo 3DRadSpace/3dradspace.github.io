@@ -1,0 +1,7 @@
+<map id="E3DRSP_VertexPositionNormalBitangentColor" name="E3DRSP_VertexPositionNormalBitangentColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,168,245,211"/>
+<area shape="rect" id="Node000002" href="$struct_e3_d_r_s_p___vector3.html" title=" " alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,44,123,143,133,168,128,167,118,145,77,49"/>
+<area shape="rect" id="Node000003" href="$struct_e3_d_r_s_p___color.html" title=" " alt="" coords="156,5,269,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,45,204,95,185,145,166,170,163,165,181,143,199,93,209,49"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="E:/3DRadSpace/Engine3DRadSpace/Audio/SoundState.hpp" name="E:/3DRadSpace/Engine3DRadSpace/Audio/SoundState.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="924,5,1126,48"/>
+<area shape="rect" id="Node000002" href="$3_d_rad_space_8hpp.html" title=" " alt="" coords="951,392,1152,435"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1043,60,1067,114,1089,183,1101,259,1100,298,1094,337,1083,367,1067,394,1064,390,1078,365,1089,335,1095,298,1095,260,1084,184,1062,116,1041,65"/>
+<area shape="rect" id="Node000004" href="$_sound_instance_8hpp.html" title=" " alt="" coords="816,96,1028,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="992,57,948,98,945,93,987,60"/>
+<area shape="rect" id="Node000003" href="$_angelscript_wrapper_8cpp.html" title=" " alt="" coords="952,491,1151,549"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1053,448,1054,492,1049,489,1050,452"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="1006,143,1033,161,1054,185,1066,212,1074,240,1077,298,1070,351,1060,393,1056,390,1065,351,1071,298,1068,241,1061,213,1049,188,1030,165,1006,149"/>
+<area shape="rect" id="Node000005" href="$_audio_2_sound_instance_8cpp.html" title=" " alt="" coords="568,187,780,229"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="847,145,733,188,731,184,852,143"/>
+<area shape="rect" id="Node000006" href="$_f_f_i_2_audio_2_sound_instance_8cpp.html" title=" " alt="" coords="804,187,1040,229"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="924,152,924,188,920,185,921,156"/>
+<area shape="rect" id="Node000007" href="$_sound_effect_8hpp.html" title=" " alt="" coords="308,187,544,229"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="799,141,543,189,542,183,804,139"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="559,227,668,231,797,233,860,237,917,244,966,257,1002,275,1026,301,1040,333,1049,364,1052,393,1048,390,1044,366,1035,335,1021,304,999,279,964,262,916,249,859,242,796,238,668,236,560,232"/>
+<area shape="rect" id="Node000008" href="$_edit_object_dialog_8cpp.html" title=" " alt="" coords="60,277,270,336"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="354,237,244,279,241,274,358,233"/>
+<area shape="rect" id="Node000009" href="$_f_f_i_2_objects_2_impl_2_sound_effect_8cpp.html" title=" " alt="" coords="294,277,495,336"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="416,242,406,279,401,275,413,246"/>
+<area shape="rect" id="Node000010" href="$_objects_2_impl_2_sound_effect_8cpp.html" title=" " alt="" coords="5,392,242,435"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="290,217,218,226,146,238,86,256,64,267,50,279,42,292,40,305,50,335,70,365,96,391,91,392,66,369,45,337,35,305,37,291,45,276,62,262,84,251,145,233,218,221,294,214"/>
+<area shape="rect" id="Node000011" href="$_sound_source_8hpp.html" title=" " alt="" coords="519,285,762,328"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="486,233,597,284,592,285,486,239"/>
+<area shape="rect" id="Node000016" href="$_engine3_d_rad_space___tests_2_main_8cpp.html" title=" " alt="" coords="787,285,988,328"/>
+<area shape="poly" id="edge20_Node000007_Node000016" title=" " alt="" coords="554,230,775,275,809,285,804,285,774,280,554,235"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="737,330,973,391,968,392,736,335"/>
+<area shape="poly" id="edge18_Node000011_Node000010" title=" " alt="" coords="526,332,508,339,230,394,229,389,507,333,531,331"/>
+<area shape="rect" id="Node000012" href="$_f_f_i_2_objects_2_impl_2_sound_source_8cpp.html" title=" " alt="" coords="679,384,880,443"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="681,335,744,384,739,383,680,340"/>
+<area shape="rect" id="Node000013" href="$_sound_source_gizmo_8hpp.html" title=" " alt="" coords="366,384,604,443"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="600,336,529,386,526,381,595,338"/>
+<area shape="rect" id="Node000015" href="$_objects_2_impl_2_sound_source_8cpp.html" title=" " alt="" coords="519,499,762,541"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="643,342,643,500,639,497,639,345"/>
+<area shape="rect" id="Node000014" href="$_sound_source_gizmo_8cpp.html" title=" " alt="" coords="256,491,495,549"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="446,452,407,493,404,488,442,455"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="541,449,613,499,607,498,539,454"/>
+</map>

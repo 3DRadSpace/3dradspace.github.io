@@ -1,0 +1,21 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.LinearPixelFogEffect" name="Engine3DRadSpace.Graphics.Rendering.LinearPixelFogEffect">
+<area shape="rect" id="Node000001" title="Implements a screen space fog effect." alt="" coords="100,443,305,485"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_post_process_effect.html" title="Represents a pixel shader that is applied to the backbuffer." alt="" coords="103,352,302,395"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,408,197,444,193,441,192,412"/>
+<area shape="poly" id="edge11_Node000001_Node000002" title=" " alt="" coords="213,408,213,444,208,441,210,412"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_shader.html" title=" " alt="" coords="35,261,234,304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="160,314,190,352,184,352,159,319"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="5,88,235,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,127,136,261,130,261,121,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="63,5,153,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,45,121,88,116,88,112,50"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="178,5,390,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="243,41,147,90,144,86,246,37"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="172,171,372,213"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="283,45,276,171,271,170,281,50"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="310,80,509,123"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="316,38,380,79,375,80,316,43"/>
+<area shape="poly" id="edge10_Node000002_Node000007" title=" " alt="" coords="269,227,262,266,249,305,221,353,217,350,244,303,257,265,266,231"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="226,224,168,263,165,259,229,220"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="363,133,306,172,302,168,367,130"/>
+</map>

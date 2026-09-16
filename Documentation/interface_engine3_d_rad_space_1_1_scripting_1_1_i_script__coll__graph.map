@@ -1,0 +1,6 @@
+<map id="Engine3DRadSpace.Scripting.IScript" name="Engine3DRadSpace.Scripting.IScript">
+<area shape="rect" id="Node000001" title="Base interface for dynamically compiled C# scripts. Scripts implementing this interface can be instan..." alt="" coords="13,80,211,123"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,5,219,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,46,107,81,102,79,102,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="122,46,122,81,118,79,119,50"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Graphics::VertexPositionNormalColor" name="Engine3DRadSpace.Graphics::VertexPositionNormalColor">
+<area shape="rect" id="Node000001" title="Represents a 3D vertex declaration with a 3D normal attribute, and a color attribute." alt="" coords="100,141,296,184"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,58,184,140,179,141,116,62"/>
+<area shape="rect" id="Node000003" href="$struct_engine3_d_rad_space_1_1_math_1_1_color.html" title="Represents a Unit RGBA color." alt="" coords="201,13,408,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,51,216,143,213,139,283,53"/>
+</map>

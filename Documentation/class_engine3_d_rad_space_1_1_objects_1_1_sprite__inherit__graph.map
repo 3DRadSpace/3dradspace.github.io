@@ -1,0 +1,31 @@
+<map id="Engine3DRadSpace.Objects.Sprite" name="Engine3DRadSpace.Objects.Sprite">
+<area shape="rect" id="Node000001" title="Represents a 2D sprite that can be drawn on the screen, with support for mouse hover and click intera..." alt="" coords="784,108,977,151"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_objects_1_1_button.html" title="Represents a clickable sprite, that has different UV coordinates for button states." alt="" coords="1025,108,1213,151"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="992,127,1027,129,1022,129,992,132"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_objects_1_1_inst_i_object2_d.html" title=" " alt="" coords="544,57,736,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="752,99,787,109,781,109,751,105"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="267,56,496,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,71,546,75,541,76,512,77"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="67,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,27,309,54,305,57,173,33"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,56,218,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="233,67,269,68,264,70,235,72"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="285,141,478,184"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="193,84,220,92,336,140,331,142,218,97,193,90"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object2_d.html" title="Polymorphic interface for 2D objects." alt="" coords="544,141,736,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="751,145,781,143,786,142,752,150"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="493,169,546,171,541,172,493,174"/>
+<area shape="poly" id="edge15_Node000006_Node000007" title=" " alt="" coords="493,151,546,154,541,154,493,156"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,107,218,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="172,134,287,155,283,157,172,140"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="234,128,298,140,293,141,234,133"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,157,219,184"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="234,173,287,174,282,175,234,179"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="234,155,287,156,282,157,234,161"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,208,212,235"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="226,203,313,185,318,184,228,208"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="162,201,282,175,287,175,164,206"/>
+<area shape="rect" id="Node000011" href="$interface_engine3_d_rad_space_1_1_i_drawable2_d.html" title="Represents an interface for objects that be can drawn on the screen as 2D elements." alt="" coords="272,208,491,235"/>
+<area shape="poly" id="edge14_Node000006_Node000011" title=" " alt="" coords="506,203,588,185,593,184,507,208"/>
+<area shape="poly" id="edge16_Node000006_Node000011" title=" " alt="" coords="419,200,495,181,541,174,546,173,497,187,420,206"/>
+</map>

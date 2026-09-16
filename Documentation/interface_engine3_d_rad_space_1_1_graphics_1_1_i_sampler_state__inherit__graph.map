@@ -1,0 +1,14 @@
+<map id="Engine3DRadSpace.Graphics.ISamplerState" name="Engine3DRadSpace.Graphics.ISamplerState">
+<area shape="rect" id="Node000001" title="Represents a sampler state for texture sampling." alt="" coords="513,72,712,115"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_sampler_state.html" title=" " alt="" coords="762,5,958,48"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="709,65,776,49,781,48,710,70"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_sampler_state.html" title=" " alt="" coords="760,72,960,115"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="728,91,763,93,757,94,728,96"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_sampler_state.html" title=" " alt="" coords="762,139,958,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="710,117,781,138,776,138,709,122"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,80,218,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,87,266,87,465,87,515,90,510,91,465,92,266,92,233,93"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="266,101,465,144"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="233,105,268,111,263,111,233,110"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="480,106,515,105,510,106,481,112"/>
+</map>

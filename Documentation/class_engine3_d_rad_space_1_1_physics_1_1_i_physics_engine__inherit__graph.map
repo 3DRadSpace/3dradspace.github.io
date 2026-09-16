@@ -1,0 +1,16 @@
+<map id="Engine3DRadSpace.Physics.IPhysicsEngine" name="Engine3DRadSpace.Physics.IPhysicsEngine">
+<area shape="rect" id="Node000001" title="Physics engine interface." alt="" coords="204,229,398,272"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_physics_1_1_n_v_phys_x_1_1_physics_engine.html" title="Manages physics scene, and physics object factory." alt="" coords="206,320,396,363"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="303,286,303,321,299,318,299,290"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="122,155,336,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,191,286,229,280,229,250,196"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="24,80,253,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,114,216,154,211,155,166,119"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,39,126,79,121,81,78,45"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="198,44,156,81,152,78,201,40"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="278,80,469,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="369,120,350,182,320,231,316,227,345,180,366,124"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="332,116,256,156,253,152,337,112"/>
+</map>

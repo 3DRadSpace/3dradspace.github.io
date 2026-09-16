@@ -1,0 +1,27 @@
+var _vertex_declarations_8h =
+[
+    [ "E3DRSP_VertexPosition", "struct_e3_d_r_s_p___vertex_position.html", "struct_e3_d_r_s_p___vertex_position" ],
+    [ "E3DRSP_VertexPositionColor", "struct_e3_d_r_s_p___vertex_position_color.html", "struct_e3_d_r_s_p___vertex_position_color" ],
+    [ "E3DRSP_VertexPositionUV", "struct_e3_d_r_s_p___vertex_position_u_v.html", "struct_e3_d_r_s_p___vertex_position_u_v" ],
+    [ "E3DRSP_VertexPointUV", "struct_e3_d_r_s_p___vertex_point_u_v.html", "struct_e3_d_r_s_p___vertex_point_u_v" ],
+    [ "E3DRSP_VertexPositionNormalColor", "struct_e3_d_r_s_p___vertex_position_normal_color.html", "struct_e3_d_r_s_p___vertex_position_normal_color" ],
+    [ "E3DRSP_VertexPositionNormalUV", "struct_e3_d_r_s_p___vertex_position_normal_u_v.html", "struct_e3_d_r_s_p___vertex_position_normal_u_v" ],
+    [ "E3DRSP_VertexPositionNormalUVColor", "struct_e3_d_r_s_p___vertex_position_normal_u_v_color.html", "struct_e3_d_r_s_p___vertex_position_normal_u_v_color" ],
+    [ "E3DRSP_VertexPositionNormalBitangent", "struct_e3_d_r_s_p___vertex_position_normal_bitangent.html", "struct_e3_d_r_s_p___vertex_position_normal_bitangent" ],
+    [ "E3DRSP_VertexPositionNormalBitangentColor", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_color.html", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_color" ],
+    [ "E3DRSP_VertexPositionNormalBitangentUVColor", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_u_v_color.html", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_u_v_color" ],
+    [ "E3DRSP_VertexPositionNormalBitangentUV", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_u_v.html", "struct_e3_d_r_s_p___vertex_position_normal_bitangent_u_v" ],
+    [ "E3DRSP_VertexPointUVColor", "struct_e3_d_r_s_p___vertex_point_u_v_color.html", "struct_e3_d_r_s_p___vertex_point_u_v_color" ],
+    [ "E3DRSP_VertexPointUV", "_vertex_declarations_8h.html#a372e476174babecbd8beafd79ee4bbd1", null ],
+    [ "E3DRSP_VertexPointUVColor", "_vertex_declarations_8h.html#a0ddf5fcecf8cc4144651ccebf3983b19", null ],
+    [ "E3DRSP_VertexPosition", "_vertex_declarations_8h.html#aa9c6eb0bdeec2055befb08bb64ab0aa8", null ],
+    [ "E3DRSP_VertexPositionColor", "_vertex_declarations_8h.html#a945876779be2a9428368229589b018c9", null ],
+    [ "E3DRSP_VertexPositionNormalBitangent", "_vertex_declarations_8h.html#a2d94cdced9a95a7e68e5216adf092c4f", null ],
+    [ "E3DRSP_VertexPositionNormalBitangentColor", "_vertex_declarations_8h.html#ae59579bbc759193a21db35707f8a3fd4", null ],
+    [ "E3DRSP_VertexPositionNormalBitangentUV", "_vertex_declarations_8h.html#aca060530bf8498b3e100308bbc81f5c0", null ],
+    [ "E3DRSP_VertexPositionNormalBitangentUVColor", "_vertex_declarations_8h.html#a13743aaaa7a4674c27eab271cc85db40", null ],
+    [ "E3DRSP_VertexPositionNormalColor", "_vertex_declarations_8h.html#a22168d815f69be846a3a9db6d6db5b64", null ],
+    [ "E3DRSP_VertexPositionNormalUV", "_vertex_declarations_8h.html#a54b7f306dbc2c5f4c3bedb1529a0650c", null ],
+    [ "E3DRSP_VertexPositionNormalUVColor", "_vertex_declarations_8h.html#a0cf4135e62d1fca22a187677a504f541", null ],
+    [ "E3DRSP_VertexPositionUV", "_vertex_declarations_8h.html#a20a03c864e36197e3c85461731112f96", null ]
+];

@@ -1,0 +1,17 @@
+<map id="Engine3DRadSpace.Physics.IDynamicCollider" name="Engine3DRadSpace.Physics.IDynamicCollider">
+<area shape="rect" id="Node000001" title="Base polymorphic type for dynamic physics objects that can move and interact with forces in the scene..." alt="" coords="41,336,236,379"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_physics_1_1_n_v_phys_x_1_1_dynamic_collider.html" title=" " alt="" coords="43,427,234,469"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="140,392,141,428,136,425,137,396"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_static_collider.html" title="Base polymorphic interface for static colliders." alt="" coords="41,245,236,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,301,133,336,128,335,129,306"/>
+<area shape="poly" id="edge7_Node000001_Node000002" title=" " alt="" coords="149,301,149,337,144,335,146,306"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_collider.html" title="Base polymorphic type for physics objects that interact with the scene." alt="" coords="41,155,236,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="130,210,133,246,128,245,129,215"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="148,210,149,246,144,244,146,215"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="24,80,253,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,120,141,155,136,154,138,125"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="77,40,126,79,121,81,78,45"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="198,44,156,81,152,78,201,40"/>
+</map>

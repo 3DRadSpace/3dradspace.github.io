@@ -1,0 +1,9 @@
+<map id="Engine3DRadSpace.Graphics.IVertexShader" name="Engine3DRadSpace.Graphics.IVertexShader">
+<area shape="rect" id="Node000001" title="Represents an interface for a vertex shader. A IVertexShader is guaranteed to be a IShader." alt="" coords="266,39,465,81"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_vertex_shader.html" title="Represents a vertex shader." alt="" coords="515,5,710,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="480,42,517,39,512,40,481,47"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_vertex_shader.html" title=" " alt="" coords="513,72,712,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="481,73,515,80,510,80,480,78"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,47,218,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,57,268,60,263,60,234,63"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Engine3DRadSpace.Math::BoundingPlane" name="Engine3DRadSpace.Math::BoundingPlane">
+<area shape="rect" id="Node000001" title="Represents a plane with the equation p(x,y,z) = Normal.X * x + Normal.Y * y + Normal...." alt="" coords="5,120,178,163"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,62,94,120,89,119,89,65"/>
+</map>

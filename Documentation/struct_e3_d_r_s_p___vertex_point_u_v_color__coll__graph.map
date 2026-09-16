@@ -1,0 +1,7 @@
+<map id="E3DRSP_VertexPointUVColor" name="E3DRSP_VertexPointUVColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,125,240,152"/>
+<area shape="rect" id="Node000002" href="$struct_e3_d_r_s_p___vector2.html" title=" " alt="" coords="5,5,132,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,43,135,124,130,125,82,48"/>
+<area shape="rect" id="Node000003" href="$struct_e3_d_r_s_p___color.html" title=" " alt="" coords="156,5,269,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,45,196,75,180,103,158,127,155,123,176,100,191,73,202,48"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Objects.ICamera" name="Engine3DRadSpace.Objects.ICamera">
+<area shape="rect" id="Node000001" title="Base type for all objects that update the view/projection matrices." alt="" coords="5,5,198,48"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_objects_1_1_camera.html" title="Represents a 3D Camera." alt="" coords="5,96,198,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,61,96,96,91,95,92,66"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="111,61,112,96,107,95,110,66"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_objects_1_1_inst_i_camera.html" title=" " alt="" coords="221,96,414,139"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="166,52,269,94,264,97,166,57"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_objects_1_1_free_cam.html" title="FreeCam is a camera that can be moved freely in the scene using a 6 DoF control scheme." alt="" coords="5,187,198,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,152,96,187,91,186,92,157"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="111,152,112,187,107,186,109,157"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_f_p_character.html" title="Represents an first person character controller that can be used to control a character in a 3D world..." alt="" coords="6,277,197,320"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,243,104,278,99,276,100,247"/>
+</map>

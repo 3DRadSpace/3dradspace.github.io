@@ -1,0 +1,24 @@
+<map id="Engine3DRadSpace.Physics::Objects::RigidDynamic" name="Engine3DRadSpace.Physics::Objects::RigidDynamic">
+<area shape="rect" id="Node000001" title="A physics object with a dynamic rigidbody collider." alt="" coords="1013,77,1203,120"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_i_physics_object.html" title="Base class for all objects that interact with the physics engine." alt="" coords="774,77,965,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="980,96,1015,99,1010,99,980,101"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object3_d.html" title="Polymorphic interface for 3D objects." alt="" coords="534,77,726,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="742,96,777,99,771,99,742,101"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="280,48,472,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,88,536,96,531,96,488,94"/>
+<area shape="poly" id="edge12_Node000003_Node000004" title=" " alt="" coords="488,71,536,79,531,79,488,76"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,5,218,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="166,34,282,58,278,61,166,39"/>
+<area shape="poly" id="edge8_Node000004_Node000005" title=" " alt="" coords="233,30,306,47,301,48,234,36"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,56,219,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="234,76,282,77,277,79,235,81"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="234,58,282,60,277,61,235,63"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,107,212,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="226,104,306,90,301,92,228,110"/>
+<area shape="poly" id="edge10_Node000004_Node000007" title=" " alt="" coords="165,100,282,78,278,80,167,105"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,157,218,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="204,149,217,143,232,133,241,123,250,111,265,100,288,92,293,90,268,105,254,115,245,126,235,137,220,148,206,154"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_drawable3_d.html" title="Interface for 3D drawable objects." alt="" coords="267,115,486,141"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="501,120,531,119,536,118,502,125"/>
+<area shape="poly" id="edge13_Node000003_Node000009" title=" " alt="" coords="447,109,536,101,531,101,448,114"/>
+</map>

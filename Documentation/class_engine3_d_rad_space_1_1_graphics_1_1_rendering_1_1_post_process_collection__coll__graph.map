@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.PostProcessCollection" name="Engine3DRadSpace.Graphics.Rendering.PostProcessCollection">
+<area shape="rect" id="Node000001" title="Represents multiple post processes, one applied after the other." alt="" coords="227,180,444,223"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="105,104,334,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,137,309,180,304,180,249,142"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,37,200,102,195,105,85,42"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,46,223,105,218,103,223,50"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="359,104,550,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="427,139,367,182,364,177,422,140"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="363,5,546,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="456,46,457,105,452,102,453,50"/>
+</map>

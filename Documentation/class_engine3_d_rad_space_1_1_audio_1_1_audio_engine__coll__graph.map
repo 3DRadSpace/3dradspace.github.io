@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Audio.AudioEngine" name="Engine3DRadSpace.Audio.AudioEngine">
+<area shape="rect" id="Node000001" title="OpenAL based audio engine." alt="" coords="17,295,230,337"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="62,211,153,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,250,123,295,117,293,111,255"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_audio_1_1_i_audio_engine.html" title="Instances and handles audio device handles." alt="" coords="177,203,353,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,253,157,297,155,292,218,254"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="5,104,197,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,137,235,201,230,203,133,142"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="10,5,192,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,45,104,104,98,103,100,50"/>
+<area shape="rect" id="Node000006" href="$struct_engine3_d_rad_space_1_1_audio_1_1_listener.html" title="Specifies the space position of the audio listener." alt="" coords="221,104,448,131"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="320,142,281,204,277,200,316,145"/>
+</map>

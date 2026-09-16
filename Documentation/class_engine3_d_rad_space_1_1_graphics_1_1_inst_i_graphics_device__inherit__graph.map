@@ -1,0 +1,17 @@
+<map id="Engine3DRadSpace.Graphics.InstIGraphicsDevice" name="Engine3DRadSpace.Graphics.InstIGraphicsDevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="804,48,1004,91"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="543,27,756,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,51,807,58,801,58,772,57"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,5,495,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,26,545,31,540,32,511,32"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,16,268,17,263,20,172,21"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,81,218,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="165,73,265,41,314,32,309,33,266,47,166,78"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="550,77,749,120"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="233,93,550,95,549,101,233,98"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="285,56,476,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="491,55,545,51,540,52,492,60"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="492,79,552,88,547,88,492,84"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="765,83,801,81,806,81,765,88"/>
+</map>

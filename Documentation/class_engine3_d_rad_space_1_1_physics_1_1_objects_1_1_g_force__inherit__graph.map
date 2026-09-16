@@ -1,0 +1,16 @@
+<map id="Engine3DRadSpace.Physics::Objects::GForce" name="Engine3DRadSpace.Physics::Objects::GForce">
+<area shape="rect" id="Node000001" title="A GForce object is a object that enables physics simulation and specifies the gravity." alt="" coords="507,48,697,91"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="267,48,459,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,67,509,69,504,70,475,72"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,5,218,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,34,269,57,264,60,164,39"/>
+<area shape="poly" id="edge6_Node000002_Node000003" title=" " alt="" coords="233,32,296,47,291,48,234,37"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,56,219,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="234,76,269,77,264,79,235,81"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="234,58,269,60,264,61,235,63"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,107,212,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,103,296,91,291,92,228,108"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="163,100,269,79,264,81,165,105"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,157,218,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="196,150,218,143,275,117,324,92,329,90,277,122,220,148,197,155"/>
+</map>

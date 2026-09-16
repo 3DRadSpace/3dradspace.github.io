@@ -1,0 +1,15 @@
+<map id="Engine3DRadSpace.Graphics::DirectX11::VertexShader" name="Engine3DRadSpace.Graphics::DirectX11::VertexShader">
+<area shape="rect" id="Node000001" title="Represents a vertex shader." alt="" coords="1004,49,1199,92"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_shader_base.html" title=" " alt="" coords="760,19,956,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="971,52,1006,58,1001,58,971,57"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="513,16,712,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="728,36,763,39,757,39,728,41"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,32,218,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="178,25,265,9,365,3,465,9,515,18,510,18,465,15,365,8,266,15,179,30"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="266,24,465,67"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="233,43,268,45,263,46,234,48"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_vertex_shader.html" title="Represents an interface for a vertex shader. A IVertexShader is guaranteed to be a IShader." alt="" coords="513,83,712,125"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="183,60,266,76,394,90,515,100,510,101,394,95,265,81,182,65"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="480,39,515,40,510,41,481,44"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="728,93,1001,77,1006,77,728,99"/>
+</map>

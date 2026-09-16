@@ -1,0 +1,35 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.ForwardRenderer" name="Engine3DRadSpace.Graphics.Rendering.ForwardRenderer">
+<area shape="rect" id="Node000001" title="A trivial forward renderer. (currently doesn&#39;t support instanced rendering)." alt="" coords="1601,239,1800,281"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_inst_i_renderer.html" title=" " alt="" coords="832,292,1031,335"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1046,303,1598,267,1603,267,1047,308"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="316,272,545,299"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,290,594,292,834,308,829,308,594,297,560,295"/>
+<area shape="rect" id="Node000013" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="594,256,808,283"/>
+<area shape="poly" id="edge16_Node000013_Node000003" title=" " alt="" coords="560,275,597,275,591,276,561,280"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,272,157,299"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,283,317,284,313,287,172,288"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,67,218,93"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="162,97,230,134,264,159,294,188,303,203,306,217,309,230,318,242,339,258,366,272,361,271,337,262,314,246,304,232,300,218,298,205,290,191,260,163,227,138,162,103"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="601,72,801,115"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="233,80,602,89,599,93,233,85"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_command_list.html" title="Represents a graphics command list interface for issuing rendering commands to the GPU." alt="" coords="601,5,801,48"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="159,58,232,34,315,15,380,8,430,8,545,15,603,19,598,21,545,20,430,13,380,13,316,20,234,39,162,63"/>
+<area shape="rect" id="Node000011" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="331,29,530,72"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="232,66,332,58,328,61,234,71"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_i_renderer.html" title="Represents a rendering pipeline that allows multiple rendering effects." alt="" coords="1352,125,1552,168"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1515,172,1654,238,1649,238,1514,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="816,98,1329,135,1355,139,1349,139,1328,140,816,104"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="335,205,526,232"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="465,194,523,159,593,124,621,116,626,114,595,129,526,164,467,199"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_rendering_manager.html" title="Provides support for advanced rendering techniques, such as mech batching and drawing passes." alt="" coords="1055,172,1254,215"/>
+<area shape="poly" id="edge18_Node000012_Node000008" title=" " alt="" coords="541,212,1057,195,1052,199,542,217"/>
+<area shape="poly" id="edge17_Node000013_Node000008" title=" " alt="" coords="521,233,629,255,623,256,520,238"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="20,205,203,232"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="218,216,337,218,332,220,219,221"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="816,31,1021,51,1139,66,1255,87,1323,103,1389,125,1383,125,1322,108,1254,92,1138,72,1021,56,816,37"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="545,38,603,35,598,36,546,43"/>
+<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="1269,173,1349,163,1355,162,1270,178"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="823,262,925,253,1030,235,1099,216,1104,215,1032,240,926,258,824,267"/>
+<area shape="rect" id="Node000014" href="$struct_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_directional_light.html" title=" " alt="" coords="601,139,801,181"/>
+<area shape="poly" id="edge19_Node000012_Node000014" title=" " alt="" coords="816,166,1057,186,1052,186,816,171"/>
+</map>

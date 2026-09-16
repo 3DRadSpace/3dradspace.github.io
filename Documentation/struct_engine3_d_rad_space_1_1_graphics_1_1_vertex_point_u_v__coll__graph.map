@@ -1,0 +1,5 @@
+<map id="Engine3DRadSpace.Graphics::VertexPointUV" name="Engine3DRadSpace.Graphics::VertexPointUV">
+<area shape="rect" id="Node000001" title="Represents a 2D vertex declaration with a 2D texture coordinate attribute." alt="" coords="5,141,201,184"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector2.html" title="A 2D vector." alt="" coords="17,5,189,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,62,106,141,100,140,101,65"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.MeshPartDrawInfo" name="Engine3DRadSpace.Graphics.Rendering.MeshPartDrawInfo">
+<area shape="rect" id="Node000001" title="Contains information about a mesh part to be drawn, including material info, and transformation matri..." alt="" coords="39,272,238,315"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_model_mesh_part.html" title="Represents a mesh formed by a index and vertex buffer, plus an effect. Bounding box and bounding sphe..." alt="" coords="39,157,238,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,214,141,273,136,271,137,217"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="24,81,253,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,121,141,158,136,157,137,126"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,39,126,80,121,82,77,45"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="198,44,155,83,151,79,202,40"/>
+</map>

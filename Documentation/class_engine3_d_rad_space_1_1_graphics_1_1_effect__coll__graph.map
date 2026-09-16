@@ -1,0 +1,16 @@
+<map id="Engine3DRadSpace.Graphics.Effect" name="Engine3DRadSpace.Graphics.Effect">
+<area shape="rect" id="Node000001" title="Represents references to shaders, specifically vertex, pixel, and geometry shaders...." alt="" coords="140,295,340,337"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="6,188,236,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,223,221,294,216,295,144,228"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,104,96,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="71,140,113,187,108,188,71,145"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,104,333,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="197,142,139,190,136,186,200,138"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="260,180,460,223"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="260,136,329,179,324,180,259,142"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="329,233,263,296,260,292,324,234"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="356,104,548,131"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="429,140,384,182,381,177,424,143"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="361,5,543,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="453,46,454,105,449,103,450,50"/>
+</map>

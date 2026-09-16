@@ -1,0 +1,13 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.ShadowMapRenderer" name="Engine3DRadSpace.Graphics.Rendering.ShadowMapRenderer">
+<area shape="rect" id="Node000001" title="Represents the shadow map depth pass." alt="" coords="790,56,1000,99"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_inst_i_renderer.html" title=" " alt="" coords="543,23,742,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="758,57,793,64,787,63,758,62"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,31,495,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,41,545,44,540,44,511,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,22,268,32,263,34,172,27"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,56,218,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="233,55,268,54,263,55,234,61"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_i_renderer.html" title="Represents a rendering pipeline that allows multiple rendering effects." alt="" coords="543,89,742,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="757,93,787,91,793,91,758,98"/>
+</map>

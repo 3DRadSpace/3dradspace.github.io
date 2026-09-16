@@ -1,0 +1,31 @@
+<map id="E:/3DRadSpace/Engine3DRadSpace/Objects/ObjectRegistry/ObjectRegistry.hpp" name="E:/3DRadSpace/Engine3DRadSpace/Objects/ObjectRegistry/ObjectRegistry.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1412,5,1614,64"/>
+<area shape="rect" id="Node000002" href="$_objects_8hpp.html" title=" " alt="" coords="1293,120,1504,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1473,74,1422,122,1420,117,1468,76"/>
+<area shape="rect" id="Node000015" href="$_object_registry_8cpp.html" title=" " alt="" coords="1527,112,1728,171"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1556,72,1599,112,1594,111,1555,77"/>
+<area shape="rect" id="Node000003" href="$_legacy_8cpp.html" title=" " alt="" coords="5,227,205,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1275,143,1075,150,811,162,515,185,364,201,217,221,180,229,179,223,217,216,364,196,514,179,811,157,1075,145,1280,143"/>
+<area shape="rect" id="Node000004" href="$_event_control_8cpp.html" title=" " alt="" coords="229,219,440,277"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1275,147,1114,157,908,170,680,191,452,221,440,223,439,218,451,216,679,186,907,165,1114,151,1280,146"/>
+<area shape="rect" id="Node000005" href="$_add_function_dialog_8cpp.html" title=" " alt="" coords="464,219,682,277"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1275,152,1010,179,852,198,695,221,683,223,682,218,694,216,851,193,1009,174,1281,151"/>
+<area shape="rect" id="Node000006" href="$_add_object_dialog_8cpp.html" title=" " alt="" coords="706,219,917,277"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1280,159,1112,188,930,221,917,224,917,218,928,216,1111,183,1275,160"/>
+<area shape="rect" id="Node000007" href="$_edit_object_8cpp.html" title=" " alt="" coords="941,219,1152,277"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1317,167,1144,221,1143,215,1312,168"/>
+<area shape="rect" id="Node000008" href="$_editor_window_8cpp.html" title=" " alt="" coords="1176,219,1386,277"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1367,172,1314,221,1312,216,1362,174"/>
+<area shape="rect" id="Node000009" href="$3_d_rad_space___editor___windows_d_x11_2_main_8cpp.html" title=" " alt="" coords="1411,227,1623,269"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1434,171,1496,227,1491,225,1432,176"/>
+<area shape="rect" id="Node000010" href="$_objects_8cpp.html" title=" " alt="" coords="1648,227,1858,269"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1483,165,1686,226,1680,226,1483,170"/>
+<area shape="rect" id="Node000011" href="$_custom_object_8cpp.html" title=" " alt="" coords="1882,227,2101,269"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1495,164,1516,168,1615,184,1693,192,1771,201,1871,216,1910,226,1904,226,1870,221,1771,206,1693,198,1615,189,1515,173,1495,169"/>
+<area shape="rect" id="Node000012" href="$_editor_plugin_8cpp.html" title=" " alt="" coords="2126,227,2330,269"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1493,164,1516,168,1606,180,1683,187,1814,192,1946,196,2023,203,2113,216,2153,226,2148,226,2113,221,2022,209,1946,202,1814,197,1683,192,1606,186,1515,173,1492,169"/>
+<area shape="rect" id="Node000013" href="$_event_invocation_representation_8cpp.html" title=" " alt="" coords="2354,219,2562,277"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="1491,164,1516,168,1641,183,1747,191,1929,192,2111,193,2217,201,2343,216,2356,221,2351,220,2342,221,2217,206,2111,199,1929,197,1747,196,1641,189,1515,173,1491,169"/>
+<area shape="rect" id="Node000014" href="$_projects_2_serialization_8cpp.html" title=" " alt="" coords="2586,227,2797,269"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1490,164,1516,168,1676,186,1812,194,1933,195,2045,192,2157,189,2278,190,2414,198,2575,216,2617,226,2612,226,2574,221,2414,203,2278,195,2157,195,2045,197,1933,200,1812,199,1676,192,1515,173,1490,169"/>
+</map>

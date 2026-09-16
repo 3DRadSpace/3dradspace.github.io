@@ -1,0 +1,18 @@
+<map id="Engine3DRadSpace.Audio.Sound" name="Engine3DRadSpace.Audio.Sound">
+<area shape="rect" id="Node000001" title="Represents a audio clip." alt="" coords="143,409,360,436"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="62,211,153,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,250,118,294,125,316,135,336,155,359,178,378,226,409,220,409,175,383,151,363,131,339,120,318,112,295,108,255"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_audio_1_1_audio_engine.html" title="OpenAL based audio engine." alt="" coords="145,295,358,337"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="141,243,221,293,216,295,140,248"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_content_1_1_i_asset.html" title="Asset polymorphic base type." alt="" coords="383,295,576,337"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="424,344,280,411,278,406,418,344"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,351,254,410,249,407,250,355"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_audio_1_1_i_audio_engine.html" title="Instances and handles audio device handles." alt="" coords="177,203,353,245"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="261,258,257,296,252,293,258,263"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="5,104,197,131"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="134,137,235,201,230,203,133,142"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="10,5,192,32"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="101,45,104,104,98,103,101,50"/>
+<area shape="rect" id="Node000008" href="$struct_engine3_d_rad_space_1_1_audio_1_1_listener.html" title="Specifies the space position of the audio listener." alt="" coords="221,104,448,131"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="320,141,281,204,277,200,316,145"/>
+</map>

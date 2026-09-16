@@ -1,0 +1,91 @@
+<map id="Engine3DRadSpace.Objects.IObject" name="Engine3DRadSpace.Objects.IObject">
+<area shape="rect" id="Node000001" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="267,387,459,429"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_objects_1_1_counter.html" title="Counter object to be used together with other event objects (EoL, EoV, et cetera....." alt="" coords="763,5,955,48"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="365,370,376,303,400,218,419,175,442,133,471,95,505,63,534,45,566,31,633,14,700,8,765,11,760,14,700,13,634,19,568,36,537,50,509,67,475,99,446,136,424,177,406,220,382,304,370,372"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_objects_1_1_directional_light.html" title="Represents a directional light object in the scene." alt="" coords="509,287,697,329"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="420,378,506,339,539,328,535,332,508,344,424,382"/>
+<area shape="rect" id="Node000008" href="$class_engine3_d_rad_space_1_1_objects_1_1_event_on_key.html" title="Represents an event that is triggered when a specific key is pressed." alt="" coords="509,353,697,396"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="473,390,511,386,506,389,476,395"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_objects_1_1_fog.html" title="This object controls the Fog effect." alt="" coords="752,72,966,99"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="367,371,380,310,406,236,424,199,446,163,473,131,505,104,540,85,577,72,616,64,655,60,731,61,798,70,793,73,730,66,655,65,617,69,579,77,542,90,509,109,477,135,451,166,429,202,411,239,386,312,372,372"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object2_d.html" title="Polymorphic interface for 2D objects." alt="" coords="507,420,699,463"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="472,430,509,436,504,438,474,435"/>
+<area shape="poly" id="edge17_Node000001_Node000010" title=" " alt="" coords="474,412,510,418,506,421,476,417"/>
+<area shape="rect" id="Node000015" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object3_d.html" title="Polymorphic interface for 3D objects." alt="" coords="507,689,699,732"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="387,439,486,567,583,688,578,689,482,571,386,445"/>
+<area shape="poly" id="edge39_Node000001_Node000015" title=" " alt="" coords="396,439,500,567,591,689,586,689,496,571,395,444"/>
+<area shape="rect" id="Node000035" href="$class_engine3_d_rad_space_1_1_objects_1_1_inst_i_object.html" title=" " alt="" coords="507,119,699,161"/>
+<area shape="poly" id="edge40_Node000001_Node000035" title=" " alt="" coords="376,371,396,328,425,276,461,224,505,178,537,160,533,164,509,182,465,227,429,279,401,330,381,373"/>
+<area shape="rect" id="Node000036" href="$class_engine3_d_rad_space_1_1_objects_1_1_sky_color.html" title="Represents an object that sets the backbuffer clear color. Can be used as an trivial alternative to t..." alt="" coords="763,123,955,165"/>
+<area shape="poly" id="edge46_Node000001_Node000036" title=" " alt="" coords="380,372,402,337,430,298,465,259,506,227,542,214,606,197,764,162,760,166,607,202,543,219,508,232,469,263,434,301,406,340,385,375"/>
+<area shape="rect" id="Node000037" href="$class_engine3_d_rad_space_1_1_objects_1_1_sound_effect.html" title="Represents an 2D sound effect that can be played in the scene." alt="" coords="763,189,955,232"/>
+<area shape="poly" id="edge47_Node000001_Node000037" title=" " alt="" coords="388,373,438,320,471,294,506,272,570,246,637,229,702,217,765,212,760,215,703,222,638,234,571,251,508,277,474,298,442,324,392,376"/>
+<area shape="rect" id="Node000038" href="$class_engine3_d_rad_space_1_1_objects_1_1_settings_manager.html" title="Represents a manager for game settings." alt="" coords="509,756,697,799"/>
+<area shape="poly" id="edge45_Node000001_Node000038" title=" " alt="" coords="370,442,387,508,412,588,430,630,452,670,478,708,509,742,525,755,520,756,505,746,474,712,448,673,425,632,407,590,381,509,369,447"/>
+<area shape="rect" id="Node000039" href="$class_engine3_d_rad_space_1_1_objects_1_1_timer.html" title="Represents an event object that executes an event at a specified interval, for a specified number of ..." alt="" coords="509,823,697,865"/>
+<area shape="poly" id="edge48_Node000001_Node000039" title=" " alt="" coords="367,442,380,520,403,617,421,669,445,720,474,767,509,809,524,822,519,822,505,813,469,770,440,722,417,671,398,619,375,521,366,447"/>
+<area shape="rect" id="Node000040" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_g_force.html" title="A GForce object is a object that enables physics simulation and specifies the gravity." alt="" coords="508,889,698,932"/>
+<area shape="poly" id="edge49_Node000001_Node000040" title=" " alt="" coords="365,442,374,531,382,587,395,646,413,708,437,768,469,825,509,875,524,889,519,889,505,879,465,828,432,771,408,710,390,648,377,587,369,532,364,447"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,344,218,371"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,373,269,396,264,399,165,377"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="232,371,296,385,292,388,235,375"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,395,219,421"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,415,268,415,264,418,236,419"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="233,397,268,398,264,401,236,401"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,445,212,472"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,442,295,428,292,432,229,446"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="162,439,268,417,265,421,166,443"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,496,218,523"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,490,218,482,275,455,328,428,325,432,277,460,220,486,199,493"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_objects_1_1_exit_fade.html" title="When triggered, loads another scene." alt="" coords="763,256,955,299"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="694,409,697,406,714,383,720,358,727,333,745,309,766,297,762,301,749,313,732,336,726,360,719,385,701,410,697,413"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_objects_1_1_sprite.html" title="Represents a 2D sprite that can be drawn on the screen, with support for mouse hover and click intera..." alt="" coords="763,323,955,365"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="686,411,698,406,722,390,746,375,778,364,774,367,749,380,725,395,701,410,689,416"/>
+<area shape="rect" id="Node000014" href="$class_engine3_d_rad_space_1_1_objects_1_1_text_print.html" title="Represents a 2D text object that can be drawn on the screen using a specified font." alt="" coords="763,389,955,432"/>
+<area shape="poly" id="edge16_Node000010_Node000014" title=" " alt="" coords="714,426,765,421,760,423,716,430"/>
+<area shape="rect" id="Node000013" href="$class_engine3_d_rad_space_1_1_objects_1_1_button.html" title="Represents a clickable sprite, that has different UV coordinates for button states." alt="" coords="1021,323,1209,365"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="970,341,1023,343,1018,345,972,347"/>
+<area shape="rect" id="Node000016" href="$class_engine3_d_rad_space_1_1_objects_1_1_box.html" title="Represents a 3D box object in the scene." alt="" coords="751,973,967,1000"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="698,739,701,742,720,771,727,799,728,827,724,854,721,881,722,908,730,934,749,959,765,973,760,972,745,963,726,936,717,909,716,881,719,854,722,827,722,800,715,773,697,746,697,745"/>
+<area shape="rect" id="Node000017" href="$class_engine3_d_rad_space_1_1_objects_1_1_camera.html" title="Represents a 3D Camera." alt="" coords="763,1024,955,1067"/>
+<area shape="poly" id="edge20_Node000015_Node000017" title=" " alt="" coords="698,740,701,742,723,777,731,812,730,846,725,879,720,912,720,945,728,977,749,1010,765,1025,760,1024,745,1014,723,979,714,945,715,912,720,878,725,845,726,812,718,779,697,746,698,745"/>
+<area shape="rect" id="Node000020" href="$class_engine3_d_rad_space_1_1_objects_1_1_cone.html" title="Represents an cone object in 3D space." alt="" coords="747,1091,971,1117"/>
+<area shape="poly" id="edge24_Node000015_Node000020" title=" " alt="" coords="699,740,701,742,717,764,727,786,735,830,732,872,724,914,715,955,713,996,722,1036,733,1057,749,1077,764,1091,759,1090,745,1081,729,1059,717,1038,708,996,710,954,718,913,727,871,730,830,722,788,712,767,697,746,698,745"/>
+<area shape="rect" id="Node000021" href="$class_engine3_d_rad_space_1_1_objects_1_1_cylinder.html" title="Represents a 3D cylinder object in the scene." alt="" coords="763,1141,955,1184"/>
+<area shape="poly" id="edge25_Node000015_Node000021" title=" " alt="" coords="699,740,701,742,719,768,730,793,737,818,740,842,735,891,725,938,714,985,711,1032,713,1056,720,1079,732,1103,749,1128,765,1143,760,1142,745,1131,727,1106,715,1081,708,1057,705,1032,709,984,720,937,730,890,734,842,732,819,725,795,714,770,697,746,698,745"/>
+<area shape="rect" id="Node000022" href="$class_engine3_d_rad_space_1_1_objects_1_1_empty.html" title="Represents a blank object, with no behiavour. Can be used as a dummy, or plain 3D transform." alt="" coords="763,1208,955,1251"/>
+<area shape="poly" id="edge26_Node000015_Node000022" title=" " alt="" coords="699,740,701,742,721,772,735,802,742,831,744,860,738,916,725,972,711,1027,706,1082,708,1110,716,1137,729,1166,749,1194,765,1210,760,1209,745,1198,725,1168,711,1139,703,1111,700,1082,706,1026,719,970,733,915,739,860,737,832,730,803,717,775,697,746,698,745"/>
+<area shape="rect" id="Node000023" href="$class_engine3_d_rad_space_1_1_objects_1_1_event_on_location.html" title="Represents an event object that executes an event when the player enters a specified area." alt="" coords="765,456,953,499"/>
+<area shape="poly" id="edge27_Node000015_Node000023" title=" " alt="" coords="618,674,639,636,667,591,703,547,746,509,769,498,765,501,749,513,707,550,672,594,643,638,623,677"/>
+<area shape="rect" id="Node000024" href="$class_engine3_d_rad_space_1_1_objects_1_1_skinmesh.html" title="Represents a 3D mesh in the scene." alt="" coords="763,523,955,565"/>
+<area shape="poly" id="edge28_Node000015_Node000024" title=" " alt="" coords="630,675,681,624,712,598,746,575,773,564,769,567,749,580,715,602,684,628,634,679"/>
+<area shape="rect" id="Node000025" href="$class_engine3_d_rad_space_1_1_objects_1_1_skybox.html" title="Represents a skybox object in the 3D scene." alt="" coords="763,589,955,632"/>
+<area shape="poly" id="edge29_Node000015_Node000025" title=" " alt="" coords="659,680,746,642,782,631,778,634,748,646,662,685"/>
+<area shape="rect" id="Node000026" href="$class_engine3_d_rad_space_1_1_objects_1_1_sound_source.html" title="Represents a 3D positional sound source that can be placed in the scene, using OpenAL&#45;Soft&#39;s 3D audio..." alt="" coords="763,656,955,699"/>
+<area shape="poly" id="edge30_Node000015_Node000026" title=" " alt="" coords="714,694,765,689,760,691,716,699"/>
+<area shape="rect" id="Node000027" href="$class_engine3_d_rad_space_1_1_objects_1_1_sphere.html" title="Represents a procedurally generated 3D sphere primitive." alt="" coords="763,723,955,765"/>
+<area shape="poly" id="edge31_Node000015_Node000027" title=" " alt="" coords="714,723,765,731,760,732,715,728"/>
+<area shape="rect" id="Node000028" href="$class_engine3_d_rad_space_1_1_objects_1_1_sprite_billboard.html" title="Represents a 2D sprite rendered in 3D space that always faces the camera, either fully (spherical) or..." alt="" coords="765,789,953,832"/>
+<area shape="poly" id="edge32_Node000015_Node000028" title=" " alt="" coords="687,736,701,742,725,759,749,775,777,788,772,789,746,780,722,763,698,746,688,741"/>
+<area shape="rect" id="Node000029" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_i_physics_object.html" title="Base class for all objects that interact with the physics engine." alt="" coords="764,856,954,899"/>
+<area shape="poly" id="edge33_Node000015_Node000029" title=" " alt="" coords="696,739,701,742,713,755,720,768,726,794,732,819,738,830,749,842,767,856,762,855,746,846,734,833,727,820,720,795,715,770,708,758,697,746,696,744"/>
+<area shape="rect" id="Node000034" href="$class_test_object.html" title=" " alt="" coords="817,923,901,949"/>
+<area shape="poly" id="edge38_Node000015_Node000034" title=" " alt="" coords="698,739,701,742,717,764,724,786,725,828,726,870,734,889,749,909,764,919,781,927,819,936,814,937,779,932,761,924,745,913,729,892,721,871,720,829,719,787,712,766,697,746,697,745"/>
+<area shape="rect" id="Node000018" href="$class_engine3_d_rad_space_1_1_objects_1_1_free_cam.html" title="FreeCam is a camera that can be moved freely in the scene using a 6 DoF control scheme." alt="" coords="1019,1024,1211,1067"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="970,1052,1021,1054,1016,1054,971,1057"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="970,1034,1021,1036,1016,1037,971,1039"/>
+<area shape="rect" id="Node000019" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_f_p_character.html" title="Represents an first person character controller that can be used to control a character in a 3D world..." alt="" coords="1259,1024,1449,1067"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="1226,1043,1261,1045,1256,1046,1227,1048"/>
+<area shape="rect" id="Node000030" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_force.html" title="Represents a force that can affect a dynamic physics object. The affected object is the parent of thi..." alt="" coords="1020,807,1210,849"/>
+<area shape="poly" id="edge34_Node000029_Node000030" title=" " alt="" coords="969,853,1022,846,1017,847,970,859"/>
+<area shape="rect" id="Node000031" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_joint.html" title="A physics object representing a joint constraint between two actors." alt="" coords="1020,873,1210,916"/>
+<area shape="poly" id="edge35_Node000029_Node000031" title=" " alt="" coords="969,882,1022,888,1017,889,970,887"/>
+<area shape="rect" id="Node000032" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_rigid_dynamic.html" title="A physics object with a dynamic rigidbody collider." alt="" coords="1020,940,1210,983"/>
+<area shape="poly" id="edge36_Node000029_Node000032" title=" " alt="" coords="949,901,972,908,1020,925,1053,939,1048,939,1018,931,970,913,949,906"/>
+<area shape="rect" id="Node000033" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_rigid_static.html" title="Represents an static rigidboby made from an mesh collider." alt="" coords="1020,740,1210,783"/>
+<area shape="poly" id="edge37_Node000029_Node000033" title=" " alt="" coords="960,847,969,842,984,830,993,818,1002,805,1017,792,1038,784,1042,782,1020,797,1006,809,997,821,987,834,972,846,962,852"/>
+<area shape="poly" id="edge41_Node000035_Node000006" title=" " alt="" coords="650,108,696,82,746,58,780,47,776,50,748,62,699,87,654,112"/>
+<area shape="poly" id="edge42_Node000035_Node000009" title=" " alt="" coords="713,114,795,98,791,101,716,118"/>
+<area shape="poly" id="edge43_Node000035_Node000036" title=" " alt="" coords="714,139,765,141,760,144,716,144"/>
+<area shape="poly" id="edge44_Node000035_Node000037" title=" " alt="" coords="697,163,781,188,777,190,699,169"/>
+</map>

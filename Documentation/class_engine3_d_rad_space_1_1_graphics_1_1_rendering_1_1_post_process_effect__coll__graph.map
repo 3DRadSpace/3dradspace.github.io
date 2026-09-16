@@ -1,0 +1,25 @@
+<map id="Engine3DRadSpace.Graphics.Rendering.PostProcessEffect" name="Engine3DRadSpace.Graphics.Rendering.PostProcessEffect">
+<area shape="rect" id="Node000001" title="Represents a pixel shader that is applied to the backbuffer." alt="" coords="1143,111,1343,153"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_shader.html" title=" " alt="" coords="843,52,1042,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1058,93,1145,113,1140,112,1058,98"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="267,21,496,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,41,845,65,840,68,512,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,20,269,26,265,29,173,25"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,88,218,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="182,81,326,47,322,51,184,86"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="594,85,794,128"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="233,100,570,103,596,105,591,106,570,108,233,105"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="282,123,481,165"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="215,115,284,127,279,129,216,120"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="843,181,1042,224"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="147,120,203,150,268,175,344,191,423,203,580,214,724,215,845,212,840,212,724,220,579,220,422,208,343,196,266,180,200,155,146,126"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="809,109,1146,127,1140,128,809,115"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="809,89,845,86,840,87,810,94"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="496,128,596,118,591,119,497,133"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="1057,185,1119,172,1183,154,1188,153,1120,177,1058,190"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="598,240,790,267"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="778,234,840,223,845,223,778,239"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="290,240,473,267"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="488,251,601,253,595,253,488,256"/>
+</map>

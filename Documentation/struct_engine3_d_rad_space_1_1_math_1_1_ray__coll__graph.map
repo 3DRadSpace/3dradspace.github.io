@@ -1,0 +1,5 @@
+<map id="Engine3DRadSpace.Math.Ray" name="Engine3DRadSpace.Math.Ray">
+<area shape="rect" id="Node000001" title="Represents an ray in 3D space, defined by an origin and direction vector." alt="" coords="5,141,206,168"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="19,5,192,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,62,108,142,103,140,103,65"/>
+</map>

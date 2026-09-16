@@ -1,0 +1,11 @@
+<map id="Engine3DRadSpace.Physics.IJoint" name="Engine3DRadSpace.Physics.IJoint">
+<area shape="rect" id="Node000001" title="Base interface for all physics joints." alt="" coords="41,155,236,197"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_physics_1_1_n_v_phys_x_1_1_joint.html" title=" " alt="" coords="43,245,234,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="140,211,141,246,136,244,137,215"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="24,80,253,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,120,141,155,136,154,137,125"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,39,126,79,121,81,78,45"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,44,156,82,152,78,201,40"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Engine3DRadSpace.Graphics.IVertexBuffer" name="Engine3DRadSpace.Graphics.IVertexBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,261,280,304"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_buffer.html" title="Represents an polymorphic interface for classes that own GPU buffer handles." alt="" coords="81,171,280,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,227,175,262,171,260,170,231"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="192,227,191,262,186,260,188,231"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="81,80,280,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,136,176,171,171,170,171,141"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="191,136,191,171,186,169,188,141"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,5,218,32"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="88,47,80,62,71,81,60,118,54,149,57,178,71,212,95,239,127,260,121,261,91,243,67,215,51,179,49,148,55,117,66,79,75,60,90,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="132,41,166,79,161,80,132,47"/>
+</map>

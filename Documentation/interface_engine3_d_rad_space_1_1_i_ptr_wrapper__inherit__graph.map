@@ -1,0 +1,123 @@
+<map id="Engine3DRadSpace.IPtrWrapper" name="Engine3DRadSpace.IPtrWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,813,218,840"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_blend_state.html" title="Represents blend state GPU handles." alt="" coords="543,237,742,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,797,123,719,148,612,167,554,193,497,224,443,264,395,294,369,327,346,399,309,474,284,545,269,541,273,475,290,401,314,330,350,297,373,268,399,229,446,197,500,172,556,153,613,128,720,118,798"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_depth_stencil_buffer.html" title=" " alt="" coords="804,272,1004,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="110,797,116,707,124,646,137,579,157,510,183,441,219,377,264,320,319,268,373,229,427,202,483,187,541,183,603,188,670,201,743,223,759,230,769,239,778,249,792,258,820,271,815,272,789,262,775,253,765,243,756,235,741,228,668,207,602,193,541,188,484,193,429,207,376,234,322,272,268,323,223,380,188,444,162,512,142,580,129,647,121,707,116,798"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_depth_stencil_state.html" title=" " alt="" coords="543,304,742,347"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="115,797,130,732,158,646,178,600,202,555,230,512,264,474,294,448,328,424,400,387,474,359,544,341,540,345,476,364,403,392,331,429,298,452,268,478,234,515,206,558,182,603,163,648,135,734,120,798"/>
+<area shape="rect" id="Node000014" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="281,488,480,531"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="118,797,137,745,167,678,209,608,235,576,264,547,296,529,293,533,267,551,239,579,213,611,172,680,142,746,124,799"/>
+<area shape="rect" id="Node000020" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_vertex_buffer.html" title=" " alt="" coords="804,339,1004,381"/>
+<area shape="poly" id="edge65_Node000001_Node000020" title=" " alt="" coords="136,801,193,752,264,703,339,663,399,637,542,591,573,583,601,580,650,578,672,576,694,570,717,559,740,541,755,523,762,505,764,468,766,430,774,410,788,391,807,380,803,384,792,395,778,413,772,431,769,469,767,507,759,526,744,545,720,564,696,575,673,581,650,583,602,585,574,588,544,596,401,642,341,668,267,708,196,757,141,804"/>
+<area shape="rect" id="Node000045" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_command_list.html" title="Represents a graphics command list interface for issuing rendering commands to the GPU." alt="" coords="543,605,742,648"/>
+<area shape="poly" id="edge50_Node000001_Node000045" title=" " alt="" coords="159,805,328,738,542,657,578,647,574,650,544,663,330,743,163,809"/>
+<area shape="rect" id="Node000050" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_rasterizer_state.html" title="Represents the rasterizer state." alt="" coords="543,739,742,781"/>
+<area shape="poly" id="edge55_Node000001_Node000050" title=" " alt="" coords="231,809,544,770,541,775,234,814"/>
+<area shape="rect" id="Node000054" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_sampler_state.html" title="Represents a sampler state for texture sampling." alt="" coords="543,805,742,848"/>
+<area shape="poly" id="edge60_Node000001_Node000054" title=" " alt="" coords="232,824,545,825,541,829,234,829"/>
+<area shape="rect" id="Node000058" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="543,872,742,915"/>
+<area shape="poly" id="edge61_Node000001_Node000058" title=" " alt="" coords="232,839,545,879,541,883,233,844"/>
+<area shape="rect" id="Node000070" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_device.html" title=" " alt="" coords="281,1223,480,1265"/>
+<area shape="poly" id="edge51_Node000001_Node000070" title=" " alt="" coords="125,851,184,967,224,1039,268,1109,316,1171,360,1222,355,1222,311,1174,263,1112,219,1041,179,969,125,856"/>
+<area shape="rect" id="Node000074" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_render_target.html" title="Represents an interface for a render target." alt="" coords="281,989,480,1032"/>
+<area shape="poly" id="edge56_Node000001_Node000074" title=" " alt="" coords="132,850,190,913,227,947,267,975,292,988,287,990,264,980,223,951,186,917,133,855"/>
+<area shape="rect" id="Node000076" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader_compiler.html" title="Represents a interface for shader compilation." alt="" coords="281,1056,480,1099"/>
+<area shape="poly" id="edge62_Node000001_Node000076" title=" " alt="" coords="124,851,148,895,179,946,219,998,267,1042,288,1055,283,1056,264,1046,215,1001,175,949,143,897,125,857"/>
+<area shape="rect" id="Node000080" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_vertex_shader.html" title="Represents an interface for a vertex shader. A IVertexShader is guaranteed to be a IShader." alt="" coords="281,1289,480,1332"/>
+<area shape="poly" id="edge66_Node000001_Node000080" title=" " alt="" coords="114,853,125,938,134,992,147,1051,167,1111,193,1171,226,1227,267,1275,284,1289,278,1289,264,1279,222,1230,188,1174,162,1113,142,1052,128,993,119,938,114,858"/>
+<area shape="rect" id="Node000082" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,939,495,965"/>
+<area shape="poly" id="edge67_Node000001_Node000082" title=" " alt="" coords="152,845,267,902,347,937,342,939,265,906,153,850"/>
+<area shape="rect" id="Node000159" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="284,1356,476,1399"/>
+<area shape="poly" id="edge72_Node000001_Node000159" title=" " alt="" coords="113,853,119,949,127,1011,139,1079,158,1150,185,1220,221,1285,268,1342,287,1358,281,1358,264,1346,217,1288,180,1222,153,1152,134,1080,121,1012,114,949,112,858"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_blend_state.html" title="Represents blend state GPU handles." alt="" coords="806,72,1002,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="670,224,723,173,755,147,789,124,817,113,813,117,792,129,758,151,726,177,675,227"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_blend_state.html" title=" " alt="" coords="804,472,1004,515"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="740,287,744,290,760,312,767,334,769,376,770,418,777,438,792,458,807,471,802,472,788,462,772,441,765,419,763,376,762,335,755,314,740,294,740,292"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_blend_state.html" title=" " alt="" coords="806,5,1002,48"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="658,223,680,184,709,140,746,96,789,58,812,47,808,51,792,62,749,99,713,143,684,187,663,225"/>
+<area shape="rect" id="Node000007" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_depth_stencil_buffer.html" title="Represents the depth stencil buffer." alt="" coords="1066,205,1269,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1004,265,1082,247,1078,250,1007,270"/>
+<area shape="rect" id="Node000008" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_depth_stencil_buffer.html" title=" " alt="" coords="1068,272,1267,315"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1018,291,1070,292,1065,294,1020,296"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_depth_stencil_buffer.html" title=" " alt="" coords="1070,339,1265,381"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1005,316,1083,337,1078,339,1006,322"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_depth_stencil_state.html" title=" " alt="" coords="804,205,1004,248"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="728,296,741,290,765,274,789,258,821,247,817,250,792,262,768,278,744,294,731,300"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_depth_stencil_state.html" title=" " alt="" coords="804,539,1004,581"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="688,353,719,379,745,408,760,441,766,470,772,498,780,511,792,525,809,538,804,539,789,529,775,514,767,500,760,471,755,442,740,411,715,382,689,359"/>
+<area shape="rect" id="Node000013" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_depth_stencil_state.html" title=" " alt="" coords="806,139,1002,181"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="736,293,740,290,751,278,758,266,764,242,770,217,777,204,789,191,809,180,805,184,792,195,781,207,775,218,769,243,763,268,756,281,744,294,740,297"/>
+<area shape="poly" id="edge14_Node000014_Node000002" title=" " alt="" coords="401,473,457,388,496,342,541,302,565,288,593,279,590,282,568,293,545,306,500,346,462,391,406,476"/>
+<area shape="poly" id="edge15_Node000014_Node000002" title=" " alt="" coords="393,473,416,428,449,376,491,323,544,278,541,283,495,327,453,379,421,431,398,475"/>
+<area shape="poly" id="edge16_Node000014_Node000006" title=" " alt="" coords="421,477,477,441,542,407,597,389,642,382,687,375,741,356,765,341,789,324,821,313,817,317,792,329,768,345,744,361,688,380,643,387,599,394,544,412,480,445,425,481"/>
+<area shape="poly" id="edge17_Node000014_Node000010" title=" " alt="" coords="424,476,542,375,607,345,603,349,544,380,428,480"/>
+<area shape="poly" id="edge18_Node000014_Node000010" title=" " alt="" coords="407,475,488,398,541,351,555,345,552,349,545,355,492,402,412,478"/>
+<area shape="rect" id="Node000015" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_buffer.html" title="Represents an polymorphic interface for classes that own GPU buffer handles." alt="" coords="543,421,742,464"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="494,487,587,463,583,466,497,491"/>
+<area shape="poly" id="edge23_Node000014_Node000015" title=" " alt="" coords="450,481,545,457,541,461,454,485"/>
+<area shape="rect" id="Node000025" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_multi_buffer.html" title="Represents a base interface for GPU resources that have subresources." alt="" coords="543,488,742,531"/>
+<area shape="poly" id="edge24_Node000014_Node000025" title=" " alt="" coords="494,516,545,517,540,520,497,521"/>
+<area shape="poly" id="edge25_Node000014_Node000025" title=" " alt="" coords="494,498,545,499,540,502,497,503"/>
+<area shape="poly" id="edge26_Node000014_Node000045" title=" " alt="" coords="443,535,595,604,591,606,444,540"/>
+<area shape="poly" id="edge30_Node000014_Node000050" title=" " alt="" coords="399,542,425,585,458,634,498,683,545,725,565,738,560,739,541,729,494,686,453,637,421,588,399,548"/>
+<area shape="poly" id="edge34_Node000014_Node000054" title=" " alt="" coords="393,543,416,599,447,665,490,733,516,764,545,791,563,804,558,805,541,795,512,768,486,736,442,668,411,601,393,548"/>
+<area shape="poly" id="edge38_Node000014_Node000058" title=" " alt="" coords="389,543,408,612,438,696,458,740,482,783,511,823,545,858,562,871,556,872,541,862,507,826,478,786,453,742,433,698,403,613,388,549"/>
+<area shape="rect" id="Node000069" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_g_p_u_resource.html" title=" " alt="" coords="543,672,742,715"/>
+<area shape="poly" id="edge44_Node000014_Node000069" title=" " alt="" coords="409,540,469,600,505,631,544,658,568,671,563,672,542,662,502,635,466,604,410,545"/>
+<area shape="poly" id="edge20_Node000015_Node000006" title=" " alt="" coords="725,412,741,401,756,382,763,363,771,344,789,325,811,313,807,317,792,329,776,347,768,365,761,385,744,405,729,415"/>
+<area shape="poly" id="edge21_Node000015_Node000020" title=" " alt="" coords="755,414,790,403,866,380,861,383,791,408,758,418"/>
+<area shape="poly" id="edge22_Node000015_Node000020" title=" " alt="" coords="692,413,789,379,806,375,802,379,791,384,695,417"/>
+<area shape="rect" id="Node000046" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_graphics_command_list.html" title=" " alt="" coords="790,605,1018,648"/>
+<area shape="poly" id="edge27_Node000045_Node000046" title=" " alt="" coords="757,624,792,626,788,628,759,629"/>
+<area shape="rect" id="Node000048" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_graphics_command_list.html" title=" " alt="" coords="804,672,1004,715"/>
+<area shape="poly" id="edge28_Node000045_Node000048" title=" " alt="" coords="743,650,820,671,815,672,744,655"/>
+<area shape="rect" id="Node000049" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_graphics_command_list.html" title="Null GraphicsCommandList implementation that doesn&#39;t make any GAPI calls." alt="" coords="806,405,1002,448"/>
+<area shape="poly" id="edge29_Node000045_Node000049" title=" " alt="" coords="728,595,740,585,752,569,759,554,763,522,768,490,775,474,789,458,808,447,804,450,792,462,780,477,773,492,768,523,764,555,757,572,744,589,732,599"/>
+<area shape="rect" id="Node000051" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_rasterizer_state.html" title=" " alt="" coords="806,939,1002,981"/>
+<area shape="poly" id="edge31_Node000050_Node000051" title=" " alt="" coords="739,788,744,792,758,809,765,826,769,860,772,893,779,909,792,925,809,938,803,938,788,929,775,912,767,894,763,861,760,827,753,811,740,795,739,793"/>
+<area shape="rect" id="Node000052" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_rasterizer_state.html" title=" " alt="" coords="804,739,1004,781"/>
+<area shape="poly" id="edge32_Node000050_Node000052" title=" " alt="" coords="757,758,806,759,801,761,759,762"/>
+<area shape="rect" id="Node000053" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_rasterizer_state.html" title=" " alt="" coords="806,872,1002,915"/>
+<area shape="poly" id="edge33_Node000050_Node000053" title=" " alt="" coords="737,787,744,791,760,808,769,826,777,842,792,858,813,871,808,872,789,862,772,845,764,828,756,811,741,795,737,792"/>
+<area shape="rect" id="Node000055" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_sampler_state.html" title=" " alt="" coords="806,1072,1002,1115"/>
+<area shape="poly" id="edge35_Node000054_Node000055" title=" " alt="" coords="741,855,744,858,762,884,770,910,771,936,769,961,766,985,768,1010,775,1034,792,1058,809,1073,803,1072,788,1062,770,1036,762,1011,761,985,763,960,765,935,764,911,757,886,740,862,740,861"/>
+<area shape="rect" id="Node000056" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_sampler_state.html" title=" " alt="" coords="804,805,1004,848"/>
+<area shape="poly" id="edge36_Node000054_Node000056" title=" " alt="" coords="757,824,806,826,801,828,759,829"/>
+<area shape="rect" id="Node000057" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_sampler_state.html" title=" " alt="" coords="806,1005,1002,1048"/>
+<area shape="poly" id="edge37_Node000054_Node000057" title=" " alt="" coords="739,855,744,858,758,875,765,893,769,927,772,960,779,976,792,991,809,1005,803,1005,788,995,775,978,767,961,763,927,760,894,753,878,740,862,739,860"/>
+<area shape="rect" id="Node000059" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_shader_base.html" title=" " alt="" coords="806,1205,1002,1248"/>
+<area shape="poly" id="edge39_Node000058_Node000059" title=" " alt="" coords="733,921,744,932,765,966,773,1000,772,1033,767,1065,763,1097,763,1128,771,1160,792,1192,808,1207,803,1206,788,1195,766,1162,757,1129,758,1097,762,1064,767,1032,767,1000,760,968,740,935,733,927"/>
+<area shape="rect" id="Node000065" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_shader.html" title=" " alt="" coords="804,1323,1004,1365"/>
+<area shape="poly" id="edge40_Node000058_Node000065" title=" " alt="" coords="734,921,744,932,761,956,772,981,781,1028,777,1075,768,1120,759,1165,756,1210,765,1256,776,1279,792,1302,814,1323,809,1321,788,1306,771,1281,760,1257,750,1210,753,1164,763,1119,772,1074,775,1029,767,983,756,959,740,935,733,927"/>
+<area shape="rect" id="Node000066" href="$class_engine3_d_rad_space_1_1_graphics_1_1_rendering_1_1_post_process_effect.html" title="Represents a pixel shader that is applied to the backbuffer." alt="" coords="1068,1293,1267,1336"/>
+<area shape="poly" id="edge43_Node000058_Node000066" title=" " alt="" coords="722,920,744,941,758,963,767,985,774,1027,770,1068,762,1107,755,1146,755,1184,765,1221,776,1240,792,1258,805,1265,828,1271,897,1284,1070,1306,1064,1307,896,1289,826,1277,802,1270,789,1262,772,1243,760,1223,749,1185,750,1146,757,1106,765,1067,768,1027,762,986,753,965,740,944,722,926"/>
+<area shape="rect" id="Node000068" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_shader.html" title="Represents a mock shader implementation." alt="" coords="806,1139,1002,1181"/>
+<area shape="poly" id="edge42_Node000058_Node000068" title=" " alt="" coords="732,921,744,932,761,957,768,982,768,1031,766,1055,768,1078,775,1102,792,1125,809,1140,803,1139,788,1129,771,1104,763,1079,761,1055,762,1031,763,983,756,959,740,935,732,926"/>
+<area shape="poly" id="edge41_Node000065_Node000066" title=" " alt="" coords="1019,1329,1070,1325,1065,1326,1020,1334"/>
+<area shape="poly" id="edge45_Node000069_Node000004" title=" " alt="" coords="737,661,740,658,753,642,760,626,763,593,767,559,775,542,788,525,807,513,804,517,792,529,779,544,772,560,769,593,765,627,758,645,744,662,741,665"/>
+<area shape="poly" id="edge46_Node000069_Node000012" title=" " alt="" coords="735,662,741,658,756,642,764,625,772,608,789,591,812,580,808,584,792,595,777,611,769,628,760,645,744,662,739,666"/>
+<area shape="poly" id="edge47_Node000069_Node000048" title=" " alt="" coords="757,691,806,692,801,694,759,696"/>
+<area shape="poly" id="edge48_Node000069_Node000052" title=" " alt="" coords="743,716,820,737,815,739,744,722"/>
+<area shape="poly" id="edge49_Node000069_Node000056" title=" " alt="" coords="736,720,744,725,760,742,769,759,777,776,792,791,813,804,808,805,789,795,772,779,764,761,756,745,741,729,737,725"/>
+<area shape="rect" id="Node000071" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_graphics_device.html" title="DirectX11 RHI (Rendering Hardware Interface)." alt="" coords="545,1323,740,1365"/>
+<area shape="poly" id="edge52_Node000070_Node000071" title=" " alt="" coords="481,1269,496,1275,521,1292,544,1308,572,1322,566,1322,542,1313,518,1296,494,1280,481,1274"/>
+<area shape="rect" id="Node000072" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_graphics_device.html" title=" " alt="" coords="543,1389,742,1432"/>
+<area shape="poly" id="edge53_Node000070_Node000072" title=" " alt="" coords="491,1271,497,1275,508,1288,516,1301,522,1326,528,1351,534,1363,545,1375,562,1389,557,1388,541,1379,530,1366,523,1353,517,1328,511,1303,504,1291,493,1279,490,1276"/>
+<area shape="rect" id="Node000073" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_graphics_device.html" title="Null GraphicsDevice implementation that doesn&#39;t make any GAPI calls." alt="" coords="545,1456,740,1499"/>
+<area shape="poly" id="edge54_Node000070_Node000073" title=" " alt="" coords="493,1272,497,1276,513,1297,521,1318,522,1360,523,1402,530,1422,545,1442,560,1456,555,1455,541,1446,526,1424,518,1403,517,1360,515,1319,508,1299,493,1279,492,1278"/>
+<area shape="rect" id="Node000032" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_render_target.html" title=" " alt="" coords="545,1123,740,1165"/>
+<area shape="poly" id="edge57_Node000074_Node000032" title=" " alt="" coords="488,1037,497,1042,513,1059,522,1076,530,1093,545,1109,564,1122,559,1122,541,1113,525,1096,517,1078,509,1062,493,1046,489,1042"/>
+<area shape="rect" id="Node000075" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_render_target.html" title=" " alt="" coords="543,989,742,1032"/>
+<area shape="poly" id="edge58_Node000074_Node000075" title=" " alt="" coords="495,1008,545,1010,540,1012,496,1013"/>
+<area shape="rect" id="Node000035" href="$class_engine3_d_rad_space_1_1_graphics_1_1_null_1_1_render_target.html" title=" " alt="" coords="545,1189,740,1232"/>
+<area shape="poly" id="edge59_Node000074_Node000035" title=" " alt="" coords="492,1039,497,1042,511,1059,518,1076,522,1110,526,1143,532,1159,545,1175,561,1189,555,1189,541,1179,528,1162,520,1145,517,1111,513,1078,506,1062,493,1046,492,1044"/>
+<area shape="rect" id="Node000077" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_shader_compiler.html" title=" " alt="" coords="545,1256,740,1299"/>
+<area shape="poly" id="edge63_Node000076_Node000077" title=" " alt="" coords="407,1109,466,1176,504,1211,544,1242,567,1255,562,1255,542,1246,500,1215,462,1180,406,1114"/>
+<area shape="rect" id="Node000078" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_i_shader_compiler.html" title=" " alt="" coords="543,1056,742,1099"/>
+<area shape="poly" id="edge64_Node000076_Node000078" title=" " alt="" coords="495,1075,545,1076,540,1078,496,1080"/>
+<area shape="poly" id="edge70_Node000082_Node000065" title=" " alt="" coords="510,942,580,942,648,946,706,956,728,965,744,975,762,995,774,1014,781,1034,785,1054,783,1095,774,1136,765,1178,761,1219,769,1261,778,1281,792,1302,815,1323,810,1322,788,1306,773,1284,763,1262,756,1219,760,1177,769,1135,778,1094,779,1055,776,1036,769,1017,757,998,741,979,725,969,704,962,647,951,580,947,512,947"/>
+<area shape="poly" id="edge68_Node000082_Node000069" title=" " alt="" coords="392,923,415,880,448,827,490,772,541,725,564,713,560,717,545,729,494,776,452,830,419,883,396,926"/>
+<area shape="poly" id="edge69_Node000082_Node000075" title=" " alt="" coords="458,967,496,975,548,988,543,990,494,980,459,972"/>
+<area shape="poly" id="edge71_Node000082_Node000078" title=" " alt="" coords="486,970,497,975,513,992,522,1009,530,1026,545,1042,564,1055,559,1056,541,1046,525,1029,517,1011,509,995,493,979,487,975"/>
+</map>

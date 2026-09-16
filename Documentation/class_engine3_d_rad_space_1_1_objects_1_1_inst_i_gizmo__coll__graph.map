@@ -1,0 +1,22 @@
+<map id="Engine3DRadSpace.Objects.InstIGizmo" name="Engine3DRadSpace.Objects.InstIGizmo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="826,99,1019,141"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_inst_i_updateable.html" title=" " alt="" coords="543,77,778,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="794,103,828,109,823,109,794,108"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,31,495,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,58,579,76,574,77,479,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,22,268,32,263,35,172,27"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,56,218,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,55,268,54,263,56,234,60"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="274,81,487,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="502,90,545,92,540,93,503,96"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_gizmo.html" title=" " alt="" coords="564,128,757,171"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="467,109,567,130,561,131,467,114"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="772,134,829,130,823,131,773,139"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_drawable3_d.html" title="Interface for 3D drawable objects." alt="" coords="271,132,490,159"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="505,144,567,148,562,148,506,150"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_drawable2_d.html" title="Represents an interface for objects that be can drawn on the screen as 2D elements." alt="" coords="271,183,490,209"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="479,177,567,165,562,166,480,182"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="281,233,480,260"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="467,227,494,219,558,195,613,172,618,171,560,199,496,224,468,232"/>
+</map>

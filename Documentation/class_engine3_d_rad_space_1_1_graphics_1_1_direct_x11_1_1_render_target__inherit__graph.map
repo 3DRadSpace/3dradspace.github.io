@@ -1,0 +1,18 @@
+<map id="Engine3DRadSpace.Graphics::DirectX11::RenderTarget" name="Engine3DRadSpace.Graphics::DirectX11::RenderTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1251,37,1446,80"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_texture2_d.html" title="Represents a 2D texture." alt="" coords="1008,7,1203,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1219,40,1253,46,1248,46,1218,45"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_texture2_d.html" title=" " alt="" coords="760,5,960,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="975,25,1010,27,1005,28,975,30"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_multi_buffer.html" title="Represents a base interface for GPU resources that have subresources." alt="" coords="513,5,712,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="728,33,763,35,757,36,728,38"/>
+<area shape="poly" id="edge7_Node000003_Node000004" title=" " alt="" coords="728,15,763,18,757,18,728,20"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="266,5,465,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="480,33,515,35,510,36,481,38"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="480,15,515,18,510,18,481,20"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,47,218,73"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,41,268,39,263,40,234,47"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_render_target.html" title="Represents an interface for a render target." alt="" coords="513,72,712,115"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="233,65,514,84,511,89,233,71"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="728,85,1248,63,1253,63,728,91"/>
+</map>

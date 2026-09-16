@@ -1,0 +1,26 @@
+<map id="Engine3DRadSpace_CSharp_Tests.TestGame" name="Engine3DRadSpace_CSharp_Tests.TestGame">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1037,175,1227,217"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_game.html" title=" " alt="" coords="810,183,989,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1004,193,1039,196,1033,196,1004,199"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_inst_i_game.html" title=" " alt="" coords="550,31,755,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="733,60,764,74,802,99,838,129,889,183,884,182,834,133,799,104,761,78,733,65"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,31,495,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,41,553,43,548,45,511,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="171,22,268,32,263,35,173,27"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,56,218,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="232,55,268,53,263,56,234,60"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="289,81,472,108"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="487,87,620,92,693,101,763,117,797,130,830,147,882,182,877,182,827,152,795,135,762,123,692,106,620,97,488,92"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="470,75,580,57,575,59,472,80"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="546,132,759,159"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="736,160,834,182,828,182,736,165"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_i_drawable3_d.html" title="Interface for 3D drawable objects." alt="" coords="543,183,762,209"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="778,193,813,196,807,196,778,199"/>
+<area shape="rect" id="Node000010" href="$interface_engine3_d_rad_space_1_1_i_drawable2_d.html" title="Represents an interface for objects that be can drawn on the screen as 2D elements." alt="" coords="543,233,762,260"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="736,227,828,210,834,209,737,232"/>
+<area shape="rect" id="Node000011" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="546,284,759,311"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="740,277,761,270,825,239,875,211,880,209,828,243,763,274,741,282"/>
+<area shape="rect" id="Node000012" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="553,335,752,361"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="748,326,761,320,800,294,836,263,885,211,890,209,840,267,804,299,764,325,750,331"/>
+</map>

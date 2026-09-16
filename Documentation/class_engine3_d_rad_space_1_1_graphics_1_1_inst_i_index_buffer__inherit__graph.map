@@ -1,0 +1,24 @@
+<map id="Engine3DRadSpace.Graphics.InstIIndexBuffer" name="Engine3DRadSpace.Graphics.InstIIndexBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,352,346,395"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_g_p_u_buffer.html" title=" " alt="" coords="35,261,234,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,311,223,351,218,352,172,316"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_g_p_u_resource.html" title=" " alt="" coords="35,171,234,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,227,137,262,132,260,134,231"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="5,88,235,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,128,134,171,129,170,124,133"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="75,5,165,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,45,123,88,117,87,119,50"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="220,5,433,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="279,40,154,90,151,85,282,36"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="259,80,458,123"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="338,44,353,80,348,79,337,49"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="290,131,189,172,186,168,294,127"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_buffer.html" title="Represents an polymorphic interface for classes that own GPU buffer handles." alt="" coords="259,171,458,213"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="351,136,353,171,349,169,349,141"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="369,136,369,172,364,169,366,141"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="290,221,188,263,186,258,294,218"/>
+<area shape="rect" id="Node000009" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_index_buffer.html" title="Interface for an index buffer." alt="" coords="259,261,458,304"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="351,227,353,262,349,260,348,231"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="369,227,369,262,364,260,366,231"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="323,313,274,354,272,349,318,315"/>
+</map>

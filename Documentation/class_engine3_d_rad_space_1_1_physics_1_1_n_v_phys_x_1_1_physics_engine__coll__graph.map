@@ -1,0 +1,18 @@
+<map id="Engine3DRadSpace.Physics::NVPhysX::PhysicsEngine" name="Engine3DRadSpace.Physics::NVPhysX::PhysicsEngine">
+<area shape="rect" id="Node000001" title="Manages physics scene, and physics object factory." alt="" coords="287,348,478,391"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_physics_engine.html" title="Physics engine interface." alt="" coords="285,256,480,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,312,385,349,380,346,381,316"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="204,180,417,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,216,367,256,362,256,331,221"/>
+<area shape="rect" id="Node000004" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="105,104,334,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,138,298,179,293,180,247,143"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,96,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="85,37,200,102,195,105,86,43"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="120,5,333,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="226,45,223,105,218,103,224,50"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="359,104,550,131"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="451,144,432,208,400,258,397,254,427,206,447,147"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="414,139,336,182,334,177,419,137"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="363,5,546,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="456,45,457,105,452,103,453,50"/>
+</map>

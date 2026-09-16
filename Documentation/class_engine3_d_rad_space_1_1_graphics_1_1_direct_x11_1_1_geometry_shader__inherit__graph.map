@@ -1,0 +1,12 @@
+<map id="Engine3DRadSpace.Graphics::DirectX11::GeometryShader" name="Engine3DRadSpace.Graphics::DirectX11::GeometryShader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,352,209,395"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_direct_x11_1_1_shader_base.html" title=" " alt="" coords="14,261,209,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,318,114,353,109,351,110,322"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_shader.html" title="Represents a shader program that can be used in the rendering pipeline." alt="" coords="12,171,211,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,226,114,262,109,260,110,231"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,5,218,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,47,80,62,71,81,67,101,71,122,82,147,97,170,92,171,78,149,66,123,62,101,66,79,75,60,90,42"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="81,80,280,123"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="132,41,166,79,161,80,132,47"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="154,137,130,172,125,169,157,133"/>
+</map>

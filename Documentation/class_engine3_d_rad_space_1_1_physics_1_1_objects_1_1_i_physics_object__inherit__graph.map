@@ -1,0 +1,30 @@
+<map id="Engine3DRadSpace.Physics::Objects::IPhysicsObject" name="Engine3DRadSpace.Physics::Objects::IPhysicsObject">
+<area shape="rect" id="Node000001" title="Base class for all objects that interact with the physics engine." alt="" coords="774,105,965,148"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_force.html" title="Represents a force that can affect a dynamic physics object. The affected object is the parent of thi..." alt="" coords="1013,5,1203,48"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="927,96,1012,58,1040,49,1045,48,1014,62,929,101"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_joint.html" title="A physics object representing a joint constraint between two actors." alt="" coords="1013,72,1203,115"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="980,109,1010,107,1015,106,981,114"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_rigid_dynamic.html" title="A physics object with a dynamic rigidbody collider." alt="" coords="1013,139,1203,181"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="980,139,1015,147,1010,147,980,145"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_physics_1_1_objects_1_1_rigid_static.html" title="Represents an static rigidboby made from an mesh collider." alt="" coords="1013,205,1203,248"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="929,153,1014,191,1045,205,1039,204,1012,196,928,158"/>
+<area shape="rect" id="Node000002" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object3_d.html" title="Polymorphic interface for 3D objects." alt="" coords="534,105,726,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="742,124,777,126,771,127,742,129"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object.html" title="Base polymorphic type of all objects that can be contained in a scene/ObjectList." alt="" coords="280,76,472,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,116,536,124,531,125,488,122"/>
+<area shape="poly" id="edge11_Node000002_Node000003" title=" " alt="" coords="488,99,536,106,531,107,488,104"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_initializable.html" title="Type for objects that require explicit initialization." alt="" coords="6,33,218,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,62,282,86,278,89,166,67"/>
+<area shape="poly" id="edge7_Node000003_Node000004" title=" " alt="" coords="233,58,306,74,301,76,234,64"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_updateable.html" title="Interface type for objects that can be updated every frame." alt="" coords="5,84,219,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="234,104,282,105,277,107,235,109"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="234,86,282,88,277,90,235,91"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_i_loadable.html" title="Interface for objects that manage assets that exist on the filesystem." alt="" coords="12,135,212,161"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="226,132,306,118,301,120,228,137"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="165,128,282,105,278,109,167,133"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="6,185,218,212"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="204,177,217,171,232,161,241,151,250,139,265,128,288,120,293,118,268,133,254,143,245,154,235,165,220,176,206,182"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_drawable3_d.html" title="Interface for 3D drawable objects." alt="" coords="267,143,486,169"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="501,148,536,146,531,147,502,153"/>
+<area shape="poly" id="edge12_Node000002_Node000008" title=" " alt="" coords="447,137,536,129,531,130,448,142"/>
+</map>

@@ -1,0 +1,75 @@
+<map id="Engine3DRadSpace.IDrawable2D" name="Engine3DRadSpace.IDrawable2D">
+<area shape="rect" id="Node000001" title="Represents an interface for objects that be can drawn on the screen as 2D elements." alt="" coords="5,935,225,961"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_game.html" title=" " alt="" coords="304,224,482,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,919,385,250,389,253,130,921"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_inst_i_drawable2_d.html" title=" " alt="" coords="273,776,514,803"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="136,921,194,865,231,836,272,812,304,801,300,805,274,817,234,841,197,869,141,924"/>
+<area shape="rect" id="Node000012" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_i_gizmo.html" title="Base type for all gizmos." alt="" coords="299,827,488,869"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="167,927,333,868,330,872,171,931"/>
+<area shape="rect" id="Node000025" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_gizmo.html" title=" " alt="" coords="297,1127,490,1169"/>
+<area shape="poly" id="edge35_Node000001_Node000025" title=" " alt="" coords="148,968,364,1125,360,1128,147,973"/>
+<area shape="rect" id="Node000027" href="$interface_engine3_d_rad_space_1_1_objects_1_1_i_object2_d.html" title="Polymorphic interface for 2D objects." alt="" coords="297,1293,490,1336"/>
+<area shape="poly" id="edge37_Node000001_Node000027" title=" " alt="" coords="129,972,190,1072,275,1192,320,1246,364,1293,359,1293,317,1250,271,1195,186,1075,128,977"/>
+<area shape="poly" id="edge42_Node000001_Node000027" title=" " alt="" coords="137,972,198,1061,275,1168,381,1293,375,1294,271,1171,194,1064,137,977"/>
+<area shape="rect" id="Node000003" href="$class_editor_game.html" title=" " alt="" coords="639,5,729,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,209,432,171,467,125,510,80,561,42,599,26,640,19,636,23,601,31,563,46,514,84,471,129,437,174,412,212"/>
+<area shape="rect" id="Node000004" href="$class_empty_game.html" title=" " alt="" coords="637,56,731,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="414,211,476,150,517,119,561,92,599,79,639,72,635,75,600,84,563,97,520,123,480,154,419,214"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space___c_sharp___tests_1_1_test_game.html" title=" " alt="" coords="589,107,779,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="433,215,493,186,561,159,599,148,595,152,563,164,496,191,437,219"/>
+<area shape="rect" id="Node000006" href="$class_my_game.html" title=" " alt="" coords="647,173,721,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="488,219,648,191,644,195,491,223"/>
+<area shape="rect" id="Node000007" href="$class_skinmesh_previewer.html" title=" " alt="" coords="616,224,753,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="497,235,617,236,613,239,500,240"/>
+<area shape="rect" id="Node000008" href="$class_test_game.html" title=" " alt="" coords="644,275,725,301"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="488,251,645,280,641,282,490,256"/>
+<area shape="rect" id="Node000009" href="$class_triangle_test.html" title=" " alt="" coords="638,325,730,352"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="433,256,494,284,563,311,640,330,635,333,561,316,492,289,435,261"/>
+<area shape="rect" id="Node000010" href="$class__3_d_rad_space___empty_1_1_my_game.html" title=" " alt="" coords="580,376,788,403"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="419,259,483,312,522,339,563,362,597,374,592,377,561,366,519,344,479,316,420,264"/>
+<area shape="rect" id="Node000013" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_camera_01_4.html" title=" " alt="" coords="589,427,779,469"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="499,837,512,825,527,804,538,784,547,743,544,702,535,660,527,619,524,577,533,534,544,513,560,492,577,477,600,468,596,472,580,482,564,495,549,516,538,536,529,577,532,618,541,659,549,701,552,743,543,786,532,807,516,828,503,840"/>
+<area shape="poly" id="edge24_Node000012_Node000013" title=" " alt="" coords="490,818,512,801,527,780,538,760,547,719,544,678,535,636,527,595,524,553,533,510,544,489,560,467,590,448,587,452,564,471,549,492,538,512,529,553,532,594,541,635,549,677,552,719,543,762,532,783,516,805,494,822"/>
+<area shape="rect" id="Node000014" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_directional_light_01_4.html" title=" " alt="" coords="567,493,801,536"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="499,836,512,825,534,792,542,760,541,727,535,694,530,660,529,626,538,592,560,558,577,544,601,535,597,538,580,548,564,562,542,594,534,627,535,660,541,693,546,726,547,760,538,794,516,828,503,840"/>
+<area shape="poly" id="edge25_Node000012_Node000014" title=" " alt="" coords="489,818,512,801,534,768,542,736,541,703,535,670,530,636,529,602,538,568,560,534,568,529,565,534,564,538,542,570,534,603,535,636,541,669,546,702,547,736,538,770,516,804,493,822"/>
+<area shape="rect" id="Node000015" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_event_on_location_01_4.html" title=" " alt="" coords="562,560,806,603"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="499,836,512,825,529,801,537,776,538,752,535,727,533,702,534,676,542,650,560,625,578,611,602,601,598,605,581,615,564,629,547,653,539,677,538,701,541,726,543,752,542,777,534,803,516,828,503,839"/>
+<area shape="poly" id="edge26_Node000012_Node000015" title=" " alt="" coords="488,818,512,801,529,777,537,753,538,728,535,703,533,678,534,652,542,627,563,601,560,605,547,629,539,653,538,678,541,703,543,728,542,753,534,779,516,805,491,822"/>
+<area shape="rect" id="Node000016" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_force_01_4.html" title=" " alt="" coords="590,627,778,669"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="499,834,512,825,525,809,532,793,535,760,539,726,546,708,560,691,580,677,606,668,602,672,583,682,564,695,551,711,544,727,541,760,537,794,530,812,516,829,503,838"/>
+<area shape="poly" id="edge27_Node000012_Node000016" title=" " alt="" coords="484,819,512,801,525,785,532,769,535,736,539,702,546,684,560,667,591,650,588,654,564,671,551,687,544,703,541,736,537,770,530,788,516,805,488,823"/>
+<area shape="rect" id="Node000017" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_rigid_dynamic_01_4.html" title=" " alt="" coords="571,693,797,736"/>
+<area shape="poly" id="edge16_Node000012_Node000017" title=" " alt="" coords="500,832,512,825,528,809,536,792,544,775,560,758,586,744,616,735,612,738,588,749,564,762,548,778,540,794,532,812,516,829,504,836"/>
+<area shape="poly" id="edge28_Node000012_Node000017" title=" " alt="" coords="475,819,512,801,528,785,536,768,544,751,560,734,573,729,569,732,564,738,548,754,540,770,532,788,516,805,478,823"/>
+<area shape="rect" id="Node000018" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_rigid_static_01_4.html" title=" " alt="" coords="580,760,788,803"/>
+<area shape="poly" id="edge17_Node000012_Node000018" title=" " alt="" coords="502,829,623,802,618,805,504,834"/>
+<area shape="poly" id="edge29_Node000012_Node000018" title=" " alt="" coords="470,820,582,795,577,798,473,824"/>
+<area shape="rect" id="Node000019" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_skinmesh_01_4.html" title=" " alt="" coords="583,827,785,869"/>
+<area shape="poly" id="edge18_Node000012_Node000019" title=" " alt="" coords="502,854,585,855,580,858,504,859"/>
+<area shape="poly" id="edge30_Node000012_Node000019" title=" " alt="" coords="502,837,585,838,580,841,504,842"/>
+<area shape="rect" id="Node000020" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_sound_source_01_4.html" title=" " alt="" coords="573,893,795,936"/>
+<area shape="poly" id="edge19_Node000012_Node000020" title=" " alt="" coords="471,871,575,897,570,899,472,876"/>
+<area shape="poly" id="edge31_Node000012_Node000020" title=" " alt="" coords="502,862,623,892,618,894,503,867"/>
+<area shape="rect" id="Node000021" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_sphere_01_4.html" title=" " alt="" coords="590,960,778,1003"/>
+<area shape="poly" id="edge20_Node000012_Node000021" title=" " alt="" coords="426,877,489,919,563,958,592,970,587,971,561,962,486,923,426,882"/>
+<area shape="poly" id="edge32_Node000012_Node000021" title=" " alt="" coords="453,875,506,905,563,934,634,959,629,960,561,938,504,910,454,880"/>
+<area shape="rect" id="Node000022" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_sprite_01_4.html" title=" " alt="" coords="590,1027,778,1069"/>
+<area shape="poly" id="edge21_Node000012_Node000022" title=" " alt="" coords="414,880,442,915,477,954,518,992,563,1024,592,1039,587,1040,561,1029,514,996,473,958,438,919,414,885"/>
+<area shape="poly" id="edge33_Node000012_Node000022" title=" " alt="" coords="426,878,487,941,524,973,563,1000,592,1014,624,1026,619,1027,590,1019,561,1005,520,977,483,945,426,883"/>
+<area shape="rect" id="Node000023" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo_3_01_text_print_01_4.html" title=" " alt="" coords="586,1093,782,1136"/>
+<area shape="poly" id="edge22_Node000012_Node000023" title=" " alt="" coords="408,881,433,931,467,987,511,1044,536,1069,563,1091,589,1106,584,1107,561,1096,532,1073,507,1047,462,990,428,933,407,887"/>
+<area shape="poly" id="edge34_Node000012_Node000023" title=" " alt="" coords="415,880,441,925,474,975,515,1025,564,1067,588,1081,617,1092,611,1093,586,1085,560,1072,511,1028,470,978,436,927,414,886"/>
+<area shape="rect" id="Node000024" href="$class_engine3_d_rad_space_1_1_objects_1_1_gizmos_1_1_gizmo.html" title="Default gizmo. Draws the object without any aiding/debugging/selection effects." alt="" coords="590,1160,778,1203"/>
+<area shape="poly" id="edge23_Node000012_Node000024" title=" " alt="" coords="405,882,428,942,460,1013,505,1085,533,1117,564,1146,592,1164,587,1164,560,1150,529,1121,501,1088,455,1015,423,944,404,887"/>
+<area shape="rect" id="Node000026" href="$class_engine3_d_rad_space_1_1_objects_1_1_inst_i_gizmo.html" title=" " alt="" coords="588,1227,780,1269"/>
+<area shape="poly" id="edge36_Node000025_Node000026" title=" " alt="" coords="460,1173,563,1212,601,1226,596,1226,561,1217,459,1178"/>
+<area shape="rect" id="Node000028" href="$class_engine3_d_rad_space_1_1_objects_1_1_exit_fade.html" title="When triggered, loads another scene." alt="" coords="588,1293,780,1336"/>
+<area shape="poly" id="edge38_Node000027_Node000028" title=" " alt="" coords="505,1312,590,1314,585,1315,505,1317"/>
+<area shape="rect" id="Node000029" href="$class_engine3_d_rad_space_1_1_objects_1_1_sprite.html" title="Represents a 2D sprite that can be drawn on the screen, with support for mouse hover and click intera..." alt="" coords="588,1360,780,1403"/>
+<area shape="poly" id="edge39_Node000027_Node000029" title=" " alt="" coords="504,1337,591,1359,585,1360,504,1343"/>
+<area shape="rect" id="Node000031" href="$class_engine3_d_rad_space_1_1_objects_1_1_text_print.html" title="Represents a 2D text object that can be drawn on the screen using a specified font." alt="" coords="588,1427,780,1469"/>
+<area shape="poly" id="edge41_Node000027_Node000031" title=" " alt="" coords="439,1342,497,1379,563,1412,595,1426,590,1426,561,1417,494,1383,437,1348"/>
+<area shape="rect" id="Node000030" href="$class_engine3_d_rad_space_1_1_objects_1_1_button.html" title="Represents a clickable sprite, that has different UV coordinates for button states." alt="" coords="854,1360,1043,1403"/>
+<area shape="poly" id="edge40_Node000029_Node000030" title=" " alt="" coords="796,1379,856,1381,851,1381,796,1384"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FindObjectDialog" name="FindObjectDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,127,107"/>
+<area shape="rect" id="Node000002" href="$class_dialog.html" title=" " alt="" coords="37,5,95,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,46,69,80,63,79,64,50"/>
+</map>

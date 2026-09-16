@@ -1,0 +1,12 @@
+<map id="Engine3DRadSpace.Graphics.InstIRenderTarget" name="Engine3DRadSpace.Graphics.InstIRenderTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,171,338,213"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="5,88,235,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,122,214,170,209,171,148,127"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="75,5,165,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,45,123,89,117,87,119,50"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="220,5,433,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,40,154,90,151,85,282,36"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_render_target.html" title="Represents an interface for a render target." alt="" coords="259,80,458,123"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="338,44,353,81,348,79,336,49"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="321,131,268,172,266,168,316,133"/>
+</map>

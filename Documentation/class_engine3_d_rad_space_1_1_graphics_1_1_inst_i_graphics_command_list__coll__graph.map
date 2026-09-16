@@ -1,0 +1,18 @@
+<map id="Engine3DRadSpace.Graphics.InstIGraphicsCommandList" name="Engine3DRadSpace.Graphics.InstIGraphicsCommandList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="790,56,990,99"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_graphics_1_1_inst_g_p_u_resource.html" title=" " alt="" coords="543,23,742,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="758,57,793,64,787,64,758,62"/>
+<area shape="rect" id="Node000003" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="266,5,495,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,29,545,34,540,35,511,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,5,157,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,16,268,17,263,20,172,21"/>
+<area shape="rect" id="Node000005" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,64,218,91"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="190,58,318,32,313,34,192,63"/>
+<area shape="rect" id="Node000006" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_g_p_u_resource.html" title="Polymorphic base for classes that manage GPU resources like states." alt="" coords="281,56,480,99"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="233,75,283,77,278,78,233,80"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_graphics_1_1_i_graphics_command_list.html" title="Represents a graphics command list interface for issuing rendering commands to the GPU." alt="" coords="543,89,742,132"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="179,92,266,108,411,116,545,116,540,117,411,121,265,113,178,98"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="495,60,545,56,540,57,496,65"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="496,89,545,98,540,98,495,95"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="758,93,787,91,793,91,758,98"/>
+</map>

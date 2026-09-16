@@ -1,0 +1,15 @@
+<map id="E:/3DRadSpace/Engine3DRadSpace/FFI/Graphics/ITexture2D.h" name="E:/3DRadSpace/Engine3DRadSpace/FFI/Graphics/ITexture2D.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,5,257,48"/>
+<area shape="rect" id="Node000002" href="$_i_g_p_u_buffer_8h.html" title=" " alt="" coords="34,96,134,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,51,106,85,102,82,133,46"/>
+<area shape="rect" id="Node000007" href="$_point_8h.html" title=" " alt="" coords="158,96,266,123"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="165,46,195,83,190,84,165,51"/>
+<area shape="rect" id="Node000003" href="$_i_g_p_u_resource_8h.html" title=" " alt="" coords="24,171,145,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,121,87,155,82,155,84,126"/>
+<area shape="rect" id="Node000004" href="$_libs_8h.html" title=" " alt="" coords="28,245,140,272"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,195,87,230,82,229,83,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,320,70,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="78,271,56,309,52,305,74,274"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="94,320,168,347"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="94,270,117,307,112,307,91,275"/>
+</map>

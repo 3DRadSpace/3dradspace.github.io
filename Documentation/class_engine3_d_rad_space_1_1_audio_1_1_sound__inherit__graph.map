@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Audio.Sound" name="Engine3DRadSpace.Audio.Sound">
+<area shape="rect" id="Node000001" title="Represents a audio clip." alt="" coords="24,96,242,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,96,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,48,123,95,118,97,73,53"/>
+<area shape="rect" id="Node000003" href="$interface_engine3_d_rad_space_1_1_content_1_1_i_asset.html" title="Asset polymorphic base type." alt="" coords="119,5,312,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,58,148,98,145,93,181,60"/>
+</map>

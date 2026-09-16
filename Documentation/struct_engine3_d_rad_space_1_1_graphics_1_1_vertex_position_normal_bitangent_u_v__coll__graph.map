@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Graphics::VertexPositionNormalBitangentUV" name="Engine3DRadSpace.Graphics::VertexPositionNormalBitangentUV">
+<area shape="rect" id="Node000001" title="Represents a 3D vertex declaration with normal, tangent space, and texture coordinates." alt="" coords="74,184,304,227"/>
+<area shape="rect" id="Node000002" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector3.html" title=" " alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,60,180,183,175,184,108,64"/>
+<area shape="rect" id="Node000003" href="$struct_engine3_d_rad_space_1_1_math_1_1_vector2.html" title="A 2D vector." alt="" coords="201,5,374,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,61,261,111,234,161,213,186,210,181,229,159,256,109,275,65"/>
+</map>

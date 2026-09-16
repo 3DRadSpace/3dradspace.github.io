@@ -1,0 +1,7 @@
+<map id="Engine3DRadSpace.Logging::ServiceBadCastException" name="Engine3DRadSpace.Logging::ServiceBadCastException">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,194,213"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_logging_1_1_exception.html" title="Replaces std::exception. Also contains a stacktrace of where the exception was thrown." alt="" coords="5,80,194,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,136,102,171,97,169,98,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="48,5,151,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,45,102,80,97,79,99,50"/>
+</map>

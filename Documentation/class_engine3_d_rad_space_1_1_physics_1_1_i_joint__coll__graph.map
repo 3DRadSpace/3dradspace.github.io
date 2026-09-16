@@ -1,0 +1,29 @@
+<map id="Engine3DRadSpace.Physics.IJoint" name="Engine3DRadSpace.Physics.IJoint">
+<area shape="rect" id="Node000001" title="Base interface for all physics joints." alt="" coords="1940,83,2134,125"/>
+<area shape="rect" id="Node000002" href="$class_engine3_d_rad_space_1_1_nat_ptr_wrapper.html" title="Wraps an unmanaged pointer with an destructor function." alt="" coords="316,104,545,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,133,589,155,645,162,700,165,1745,165,1806,161,1867,151,1971,126,1976,126,1868,156,1807,167,1745,171,700,171,644,168,588,160,492,138"/>
+<area shape="rect" id="Node000006" href="$class_engine3_d_rad_space_1_1_inst_i_service.html" title=" " alt="" coords="594,53,808,80"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="520,98,623,81,629,80,521,103"/>
+<area shape="rect" id="Node000011" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_collider.html" title="Base polymorphic type for physics objects that interact with the scene." alt="" coords="1159,83,1354,125"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="560,113,1160,103,1158,108,561,118"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="66,79,157,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,94,317,107,313,110,172,99"/>
+<area shape="rect" id="Node000004" href="$interface_engine3_d_rad_space_1_1_i_ptr_wrapper.html" title=" " alt="" coords="5,129,218,156"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="233,130,318,126,313,127,234,136"/>
+<area shape="rect" id="Node000005" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_physics_engine.html" title="Physics engine interface." alt="" coords="857,17,1051,60"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1067,31,1255,27,1745,27,1832,31,1917,51,1995,83,1989,82,1915,56,1831,36,1745,32,1255,32,1067,36"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="1045,62,1076,69,1161,89,1156,88,1075,75,1044,67"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="823,50,859,49,854,50,824,56"/>
+<area shape="rect" id="Node000007" href="$interface_engine3_d_rad_space_1_1_i_service.html" title="Polymorphic base for all services used by the engine." alt="" coords="335,20,526,47"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="542,30,833,32,859,35,854,35,833,37,542,35"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="542,44,597,53,591,54,542,50"/>
+<area shape="rect" id="Node000008" href="$interface_engine3_d_rad_space_1_1_i_game.html" title="Base interface for a game class." alt="" coords="20,20,203,47"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="218,31,337,32,332,35,219,36"/>
+<area shape="rect" id="Node000009" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_dynamic_collider.html" title="Base polymorphic type for dynamic physics objects that can move and interact with forces in the scene..." alt="" coords="1647,83,1841,125"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1857,101,1942,104,1937,104,1857,107"/>
+<area shape="rect" id="Node000010" href="$class_engine3_d_rad_space_1_1_physics_1_1_i_static_collider.html" title="Base polymorphic interface for static colliders." alt="" coords="1403,83,1597,125"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="1613,110,1649,113,1644,113,1613,116"/>
+<area shape="poly" id="edge16_Node000009_Node000010" title=" " alt="" coords="1613,92,1649,95,1644,95,1613,98"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1369,110,1405,113,1400,113,1369,116"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="1369,92,1405,95,1400,95,1369,98"/>
+</map>
