@@ -98,6 +98,12 @@ a:active {
     padding: 3rem 1rem;
     background: white;
 }
+.content-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
 
 .social-card {
     display: inline-block;
